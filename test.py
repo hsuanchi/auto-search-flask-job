@@ -1,7 +1,8 @@
 import re
 import requests
+import json
 import pandas as pd
-
+# https://www.1111.com.tw/search/job?ks=flask&fs=1&page=1
 from bs4 import BeautifulSoup
 
 from config import configs
@@ -24,23 +25,34 @@ for config in configs:
         url=config["platform_url"].format(keyword, page), headers=headers
     )
     soup = BeautifulSoup(resp.text, "html.parser")
-    job_list = eval(config["jobs_list_element"])
+    
+    # job_list =  soup.find("ul",class_="list-result").find_all("script")
+    job_list =  soup.find_all("ul",class_="si-item")
 
     for job in job_list:
-        if not re.match(f".*{keyword}.*", str(job), re.IGNORECASE):
-            break_flag = True
-            # break
-            print("break ===========")
-
-        # print(job)
         print('='*10)
-        print(eval('job.get("data-cust-name")'))
-        print(eval('job.get("data-job-name")'))
-        print(job.find_all('a', class_='js-job-link')[0]['href'].replace("//",""))
+        #title
+        print(job.find(class_="date").text.replace("更新時間：",""))
+        print(job.find("a").get("title"))
+        print(job.find("a").get("href"))
+        print(job.find(class_="it-md").find('a',class_="d-block organ").text)
+        print(job.find(class_="it-md").find('a',class_="d-block organ").get("href"))
+        # print(job.text)
+        # print(data['name'])
+    #     if not re.match(f".*{keyword}.*", str(job), re.IGNORECASE):
+    #         break_flag = True
+    #         # break
+    #         print("break ===========")
+
+    #     # print(job)
+    #     print('='*10)
+    #     print(eval('job.get("data-cust-name")'))
+    #     print(eval('job.get("data-job-name")'))
+    #     print(job.find_all('a', class_='js-job-link')[0]['href'].replace("//",""))
 
 
-        print(job.find_all("a")[1].get("href").replace("//",""))
-        print(job.find("span",class_="b-tit__date").text.strip())
+    #     print(job.find_all("a")[1].get("href").replace("//",""))
+    #     print(job.find("span",class_="b-tit__date").text.strip())
 
 
         # company_name = eval(config["company_name_element"])

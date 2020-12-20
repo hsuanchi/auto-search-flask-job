@@ -18,5 +18,15 @@ configs = [
         "job_update_time_element": 'job.find("span",class_="b-tit__date").text.strip()',
         "company_name_element": 'job.get("data-cust-name")',
         "company_link_element": 'job.find_all("a")[1].get("href").replace("//","")',
-    }
+    },
+    {
+        "platform_name": "1111",
+        "platform_url": "https://www.1111.com.tw/search/job?ks={}&page={}&fs=1",
+        "jobs_list_element": 'soup.find_all("ul",class_="si-item")',
+        "job_link_element": 'job.find("a").get("href")',
+        "job_name_element": 'job.find("a").get("title")',
+        "job_update_time_element": 'job.find(class_="date").text.replace("更新時間：","")',
+        "company_name_element": 'job.find(class_="it-md").find("a",class_="d-block organ").text',
+        "company_link_element": 'job.find(class_="it-md").find("a",class_="d-block organ").get("href")',
+    },
 ]
