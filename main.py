@@ -21,9 +21,9 @@ class Crawer:
             break_flag = False
             page = 1
 
-            while True:
-                if break_flag:
-                    break
+            while page <5:
+                # if break_flag:
+                    # break
 
                 resp = requests.get(
                     url=config["platform_url"].format(self.keyword, page), headers=self.headers
@@ -32,11 +32,15 @@ class Crawer:
                 job_list = eval(config["jobs_list_element"])
 
                 for job in job_list:
-                    if not re.match(f".*{self.keyword}.*", str(job), re.IGNORECASE):
-                        break_flag = True
+                    print('='*10)
+                    # print(re.search(".*Flask.*", str(job), re.IGNORECASE))
+                    if not re.search(f".*{self.keyword}.*", str(job), re.IGNORECASE):
+                        print('pass')
+                        # break_flag = True
                         break
-
                     company_name = eval(config["company_name_element"]).replace("|", "/")
+                    print(config["platform_url"].format(self.keyword, page))
+                    print(company_name)
                     company_list = eval(config["company_link_element"])
                     job_name = eval(config["job_name_element"]).replace("|", "/")
                     job_link = eval(config["job_link_element"])
@@ -48,6 +52,7 @@ class Crawer:
                     }
 
                     self.data_list.append(job_dict)
+                print(page)
                 page += 1
 
     def mkd_to_readme(self):
@@ -65,7 +70,7 @@ class Crawer:
 
 if __name__ == "__main__":
 
-    keyword = "flask"
+    keyword = "Flask"
 
     run = Crawer(keyword)
     run.fetch_data()
