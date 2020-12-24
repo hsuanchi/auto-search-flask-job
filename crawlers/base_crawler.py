@@ -6,6 +6,8 @@ from bs4 import BeautifulSoup
 
 
 class BaseCrawler(ABC):
+    need_include_keyword = True
+
     def __init__(self, keyword: str):
         self.keyword = keyword
         self.data_list = []
@@ -50,8 +52,8 @@ class BaseCrawler(ABC):
             job_list = self.get_job_list(soup)
 
             for job in job_list:
-                if not re.search(f".*{self.keyword}.*", str(job), re.IGNORECASE):
-                    print('pass')
+                if self.need_include_keyword and not re.search(f".*{self.keyword}.*", str(job), re.IGNORECASE):
+                    print(f"{self.platform_name}: {self.keyword} pass parse")
                     break
 
                 company_name = self.get_company_name(job)
