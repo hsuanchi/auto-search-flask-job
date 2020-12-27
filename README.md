@@ -7,11 +7,12 @@
 
 
 
-|    | company                                                                   | job_title                                                                        | update_time   |
-|---:|:--------------------------------------------------------------------------|:---------------------------------------------------------------------------------|:--------------|
-|  1 | [日新軟體股份有限公司](www.104.com.tw/company/oi77qwg?jobsource=jolist_c_relevance) | [Python 資深工程師](www.104.com.tw/job/6yfn5?jobsource=jolist_c_relevance)            | 12/25         |
-|  2 | [紅門互動股份有限公司](www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance) | [Python Flask網站開發工程師(台北)](www.104.com.tw/job/6xtfl?jobsource=jolist_c_relevance) | 12/24         |
-|  3 | [紅門互動股份有限公司](www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance) | [Python Flask網站研發工程師(台中)](www.104.com.tw/job/6kf9h?jobsource=jolist_c_relevance) | 12/24         |
+|    | company                                                                   | job_title                                                                                  | update_time   |
+|---:|:--------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:--------------|
+|  1 | [好好投資科技股份有限公司](www.104.com.tw/company/1a2x6bjpjb?jobsource=2018indexpoc)  | [Backend Engineer(需熟Python、RESTful API )](www.104.com.tw/job/5572i?jobsource=2018indexpoc) | 12/28         |
+|  2 | [日新軟體股份有限公司](www.104.com.tw/company/oi77qwg?jobsource=jolist_b_relevance) | [Python 資深工程師](www.104.com.tw/job/6yfn5?jobsource=jolist_b_relevance)                      | 12/25         |
+|  3 | [紅門互動股份有限公司](www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance) | [Python Flask網站開發工程師(台北)](www.104.com.tw/job/6xtfl?jobsource=jolist_b_relevance)           | 12/24         |
+|  4 | [紅門互動股份有限公司](www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance) | [Python Flask網站研發工程師(台中)](www.104.com.tw/job/6kf9h?jobsource=jolist_b_relevance)           | 12/24         |
 
 
  ### Platform - 1111
