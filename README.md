@@ -9,10 +9,10 @@
 
 |    | company                                                                   | job_title                                                                           | update_time   |
 |---:|:--------------------------------------------------------------------------|:------------------------------------------------------------------------------------|:--------------|
-|  1 | [日新軟體股份有限公司](www.104.com.tw/company/oi77qwg?jobsource=jolist_b_relevance) | [Python 資深工程師](www.104.com.tw/job/6yfn5?jobsource=jolist_b_relevance)               | 12/25         |
+|  1 | [日新軟體股份有限公司](www.104.com.tw/company/oi77qwg?jobsource=jolist_c_relevance) | [Python 資深工程師](www.104.com.tw/job/6yfn5?jobsource=jolist_c_relevance)               | 12/25         |
 |  2 | [早餐吃麥片_饌元有限公司](www.104.com.tw/company/1a2x6bj9jb?jobsource=2018indexpoc)  | [後端 Python 工程師 ( UrMart / 早餐吃麥片 )](www.104.com.tw/job/6621b?jobsource=2018indexpoc) | 12/31         |
 |  3 | [紅門互動股份有限公司](www.104.com.tw/company/oh4m67k?jobsource=2018indexpoc)       | [Python Flask網站開發工程師(台北)](www.104.com.tw/job/6xtfl?jobsource=2018indexpoc)          | 12/31         |
-|  4 | [紅門互動股份有限公司](www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance) | [Python Flask網站開發工程師(台北)](www.104.com.tw/job/6xtfl?jobsource=jolist_b_relevance)    | 12/31         |
+|  4 | [紅門互動股份有限公司](www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance) | [Python Flask網站開發工程師(台北)](www.104.com.tw/job/6xtfl?jobsource=jolist_c_relevance)    | 12/31         |
 
 
  ### Platform - 1111
