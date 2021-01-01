@@ -51,7 +51,7 @@ class BaseCrawler(ABC):
 
             for job in job_list:
                 if not re.search(f".*{self.keyword}.*", str(job), re.IGNORECASE):
-                    print('pass')
+                    print("pass")
                     break
 
                 company_name = self.get_company_name(job)

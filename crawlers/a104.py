@@ -14,20 +14,20 @@ class A104(BaseCrawler):
         return soup.find_all(
             "article",
             class_="js-job-item",
-            attrs={"data-jobsource": re.compile(r"(.*list.*|2018.*)")}
+            attrs={"data-jobsource": re.compile(r"(.*list.*|2018.*)")},
         )
 
     def get_company_name(self, job: Tag) -> str:
         return job.get("data-cust-name").replace("|", "/")
 
     def get_company_link(self, job: Tag) -> str:
-        return job.find_all("a")[1].get("href").replace("//", "")
+        return "https:" + job.find_all("a")[1].get("href")
 
     def get_job_name(self, job: Tag) -> str:
         return job.get("data-job-name").replace("|", "/")
 
     def get_job_link(self, job: Tag) -> str:
-        return job.find_all("a", class_="js-job-link")[0]["href"].replace("//", "")
+        return "https:" + job.find_all("a", class_="js-job-link")[0]["href"]
 
     def update_time(self, job: Tag) -> str:
-        return job.find("span",class_="b-tit__date").text.strip()
+        return job.find("span", class_="b-tit__date").text.strip()
