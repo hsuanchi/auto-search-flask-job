@@ -9,8 +9,8 @@
 
 |    | company                                                                           | job_title                                                                                | update_time   |
 |---:|:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:--------------|
-|  1 | [日新軟體股份有限公司](https://www.104.com.tw/company/oi77qwg?jobsource=jolist_b_relevance) | [Python 資深工程師](https://www.104.com.tw/job/6yfn5?jobsource=jolist_b_relevance)            | 12/25         |
-|  2 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance) | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_b_relevance) | 12/31         |
+|  1 | [日新軟體股份有限公司](https://www.104.com.tw/company/oi77qwg?jobsource=jolist_a_relevance) | [Python 資深工程師](https://www.104.com.tw/job/6yfn5?jobsource=jolist_a_relevance)            | 12/25         |
+|  2 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance) | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_a_relevance) | 12/31         |
 |  3 | [艾酷互動股份有限公司](https://www.104.com.tw/company/1a2x6bkq17?jobsource=2018indexpoc)    | [後端⼯程師](https://www.104.com.tw/job/7275w?jobsource=2018indexpoc)                         | 1/04          |
 
 
@@ -21,7 +21,7 @@
 |    | company                                                  | job_title                                           | update_time   |
 |---:|:---------------------------------------------------------|:----------------------------------------------------|:--------------|
 |  1 | [展市華科技有限公司](https://www.1111.com.tw/corp/72520572/)      | [全端網頁工程師](https://www.1111.com.tw/job/91503317/)    | 2020-12-31    |
-|  2 | [展市華科技有限公司](https://www.1111.com.tw/corp/72520572/)      | [後端開發工程師](https://www.1111.com.tw/job/92133533/)    | 2020-12-31    |
+|  2 | [展市華科技有限公司](https://www.1111.com.tw/corp/72520572/)      | [後端開發工程師](https://www.1111.com.tw/job/92133533/)    | 2021-01-05    |
 |  3 | [展市華科技有限公司](https://www.1111.com.tw/corp/72520572/)      | [網頁工程師](https://www.1111.com.tw/job/91605448/)      | 2020-12-31    |
 |  4 | [諾客網科股份有限公司](https://www.1111.com.tw/corp/73092077/)     | [Python 工程師](https://www.1111.com.tw/job/92163911/) | 2020-12-25    |
 |  5 | [長青資訊股份有限公司](https://www.1111.com.tw/corp/71694811/)     | [後端工程師](https://www.1111.com.tw/job/85012186/)      | 2021-01-02    |
