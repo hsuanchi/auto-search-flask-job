@@ -11,8 +11,8 @@
 |---:|:-------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:--------------|
 |  1 | [Tomofun_友愉股份有限公司](https://www.104.com.tw/company/1a2x6bj1nc?jobsource=2018indexpoc) | [Sr. Backend/DevOps Engineer 資深後端工程師 (AWS)](https://www.104.com.tw/job/4jwwz?jobsource=2018indexpoc)    | 1/05          |
 |  2 | [大數據股份有限公司](https://www.104.com.tw/company/1a2x6bjjhc?jobsource=2018indexpoc)        | [分析研發工程師: AI, Deep Learning, Machine Learning](https://www.104.com.tw/job/54ffa?jobsource=2018indexpoc) | 1/05          |
-|  3 | [日新軟體股份有限公司](https://www.104.com.tw/company/oi77qwg?jobsource=jolist_c_relevance)    | [Python 資深工程師](https://www.104.com.tw/job/6yfn5?jobsource=jolist_c_relevance)                           | 1/05          |
-|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance)    | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_c_relevance)                | 12/31         |
+|  3 | [日新軟體股份有限公司](https://www.104.com.tw/company/oi77qwg?jobsource=2018indexpoc)          | [Python 資深工程師](https://www.104.com.tw/job/6yfn5?jobsource=2018indexpoc)                                 | 1/05          |
+|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=2018indexpoc)          | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=2018indexpoc)                      | 12/31         |
 |  5 | [蓋特資訊系統股份有限公司](https://www.104.com.tw/company/1a2x6biptb?jobsource=2018indexpoc)     | [Python 後端工程師](https://www.104.com.tw/job/6vdrl?jobsource=2018indexpoc)                                 | 1/05          |
 
 
