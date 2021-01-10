@@ -7,14 +7,15 @@
 
 
 
-|    | company                                                                               | job_title                                                                                    | update_time   |
-|---:|:--------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|:--------------|
-|  1 | [伊諾科技有限公司](https://www.104.com.tw/company/1a2x6bkxph?jobsource=2018indexpoc)          | [(真摯徵求) Python後端工程師](https://www.104.com.tw/job/70asp?jobsource=2018indexpoc)                | 1/08          |
-|  2 | [日新軟體股份有限公司](https://www.104.com.tw/company/oi77qwg?jobsource=2018indexpoc)           | [Python 資深工程師](https://www.104.com.tw/job/6yfn5?jobsource=2018indexpoc)                      | 1/05          |
-|  3 | [禾新數位有限公司](https://www.104.com.tw/company/1a2x6bjs3i?jobsource=2018indexpoc)          | [[ S-01 ] Developer 開發工程師 (Python)](https://www.104.com.tw/job/6rrkz?jobsource=2018indexpoc) | 1/09          |
-|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=2018indexpoc)           | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=2018indexpoc)           | 1/08          |
-|  5 | [美商美創資通股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bjdsb?jobsource=2018indexpoc) | [資深Web後端工程師](https://www.104.com.tw/job/6y6f0?jobsource=2018indexpoc)                        | 1/09          |
-|  6 | [美商美創資通股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bjdsb?jobsource=2018indexpoc) | [資深後端系統工程師 (python)](https://www.104.com.tw/job/4mfzt?jobsource=2018indexpoc)                | 1/09          |
+|    | company                                                                               | job_title                                                                                          | update_time   |
+|---:|:--------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------|:--------------|
+|  1 | [伊諾科技有限公司](https://www.104.com.tw/company/1a2x6bkxph?jobsource=2018indexpoc)          | [(真摯徵求) Python後端工程師](https://www.104.com.tw/job/70asp?jobsource=2018indexpoc)                      | 1/08          |
+|  2 | [好好投資科技股份有限公司](https://www.104.com.tw/company/1a2x6bjpjb?jobsource=2018indexpoc)      | [Backend Engineer(需熟Python、RESTful API )](https://www.104.com.tw/job/5572i?jobsource=2018indexpoc) | 1/11          |
+|  3 | [日新軟體股份有限公司](https://www.104.com.tw/company/oi77qwg?jobsource=2018indexpoc)           | [Python 資深工程師](https://www.104.com.tw/job/6yfn5?jobsource=2018indexpoc)                            | 1/05          |
+|  4 | [禾新數位有限公司](https://www.104.com.tw/company/1a2x6bjs3i?jobsource=2018indexpoc)          | [[ S-01 ] Developer 開發工程師 (Python)](https://www.104.com.tw/job/6rrkz?jobsource=2018indexpoc)       | 1/09          |
+|  5 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=2018indexpoc)           | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=2018indexpoc)                 | 1/08          |
+|  6 | [美商美創資通股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bjdsb?jobsource=2018indexpoc) | [資深Web後端工程師](https://www.104.com.tw/job/6y6f0?jobsource=2018indexpoc)                              | 1/09          |
+|  7 | [美商美創資通股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bjdsb?jobsource=2018indexpoc) | [資深後端系統工程師 (python)](https://www.104.com.tw/job/4mfzt?jobsource=2018indexpoc)                      | 1/09          |
 
 
  ### Platform - 1111
