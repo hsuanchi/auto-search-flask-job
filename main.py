@@ -13,7 +13,8 @@ class JobCrawler:
     def __init__(self, keyword):
         self.keyword = keyword
         self.count_result = {"datetime": date.today().strftime("%Y/%m/%d")}
-        self.file_path = "job_count.csv"
+        self.csv_path = "./doc/job_count.csv"
+        self.img_path = "./doc/plot_img.jpg"
 
     def _create_new_readme(self):
         mkd = f"\n"
@@ -22,10 +23,12 @@ class JobCrawler:
             f.write(mkd)
 
     def _create_description_readme(self):
-        mkd = f"# Auto searching jobs\n\n## Jobs include `{self.keyword}` in Taiwan \n\n ![image](./plot_img.jpg)"
+        mkd = f"# Auto searching jobs\n\n## Jobs include `{self.keyword}` in Taiwan \n\n ![image]({self.img_path})"
 
+        with open("./doc/base.md", "r+") as f:
+            base = f.read()
         with open("README.md", "r+") as f:
-            updatedfile = mkd + f.read()
+            updatedfile = mkd + f.read() + base
         with open("README.md", "w") as f:
             f.write(updatedfile)
 
@@ -41,15 +44,15 @@ class JobCrawler:
     def _save_to_csv(self):
         df = pd.DataFrame([self.count_result])
         df["Total"] = df[df.columns.values[1:]].sum(1)
-        if os.path.exists(self.file_path):
-            df.to_csv(self.file_path, index=False, mode="a", header=False)
+        if os.path.exists(self.csv_path):
+            df.to_csv(self.csv_path, index=False, mode="a", header=False)
         else:
-            df.to_csv(self.file_path, index=False)
+            df.to_csv(self.csv_path, index=False)
 
     def _save_to_img(self):
         import matplotlib.pyplot as plt
 
-        df = pd.read_csv(self.file_path)
+        df = pd.read_csv(self.csv_path)
         datetime = df["datetime"]
         columns_name = df.columns.values[1:]
 
@@ -66,7 +69,7 @@ class JobCrawler:
         plt.tight_layout()
         plt.gcf().autofmt_xdate()
         plt.savefig(
-            "plot_img.jpg",  # 儲存圖檔
+            self.img_path,  # 儲存圖檔
         )
         plt.close()
 
