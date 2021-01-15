@@ -16,30 +16,38 @@ class JobCrawler:
         self.csv_path = "./doc/job_count.csv"
         self.img_path = "./doc/plot_img.jpg"
 
-    def _create_new_readme(self):
-        mkd = f"\n"
+    def _init_readme(self):
 
-        with open("README.md", "w+") as f:
-            f.write(mkd)
+        with open("./README.md", "w+") as f:
+            f.write("\n")
 
-    def _create_description_readme(self):
-        mkd = f"# Auto searching jobs\n\n## Jobs include `{self.keyword}` in Taiwan \n\n ![image]({self.img_path})"
-
-        with open("./doc/base.md", "r+") as f:
-            base = f.read()
-        with open("README.md", "r+") as f:
-            updatedfile = mkd + f.read() + base
-        with open("README.md", "w") as f:
-            f.write(updatedfile)
+        with open("./doc/header.md", "w+") as f:
+            f.write(
+                f"# Auto searching jobs\n\n## Jobs include `{self.keyword}` in Taiwan \n\n ![image]({self.img_path})"
+            )
 
     def _insert_to_readme(self, data_list: List[dict], platform_name: str):
         df = pd.DataFrame(data_list).sort_values(["company"]).reset_index(drop=True)
         df.index += 1
-        mkd = f"\n\n\n ### Platform - {platform_name}"
-        mkd += "\n\n\n\n" + df.to_markdown()
+        mkd = f"\n\n### Platform - {platform_name}"
+        mkd += "\n\n\n" + df.to_markdown()
 
-        with open("README.md", "a") as f:
+        with open("./README.md", "a") as f:
             f.write(mkd)
+
+    def _create_final_readme(self):
+
+        with open("./doc/header.md", "r+") as f:
+            header = f.read()
+
+        with open("./README.md", "r+") as f:
+            base = f.read()
+
+        with open("./doc/footer.md", "r+") as f:
+            footer = f.read()
+
+        with open("README.md", "w") as f:
+            f.write(header + base + footer)
 
     def _save_to_csv(self):
         df = pd.DataFrame([self.count_result])
@@ -74,7 +82,7 @@ class JobCrawler:
         plt.close()
 
     def run(self):
-        self._create_new_readme()
+        self._init_readme()
 
         for JobBank in JOB_BANK_LIST:
             job_bank = JobBank(self.keyword)
@@ -84,7 +92,7 @@ class JobCrawler:
 
         self._save_to_csv()
         self._save_to_img()
-        self._create_description_readme()
+        self._create_final_readme()
 
 
 if __name__ == "__main__":

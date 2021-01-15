@@ -5,20 +5,16 @@
  ![image](./doc/plot_img.jpg)
 
 
-
- ### Platform - 104
-
+### Platform - 104
 
 
-|    | company                                                                           | job_title                                                                                   | update_time   |
-|---:|:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:--------------|
-|  1 | [日新軟體股份有限公司](https://www.104.com.tw/company/oi77qwg?jobsource=jolist_a_relevance) | [Python 資深工程師](https://www.104.com.tw/job/6yfn5?jobsource=jolist_a_relevance)               | 1/12          |
-|  2 | [早餐吃麥片_饌元有限公司](https://www.104.com.tw/company/1a2x6bj9jb?jobsource=2018indexpoc)  | [後端 Python 工程師 ( UrMart / 早餐吃麥片 )](https://www.104.com.tw/job/6621b?jobsource=2018indexpoc) | 1/14          |
-|  3 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance) | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_a_relevance)    | 1/08          |
+|    | company                                                                           | job_title                                                                                | update_time   |
+|---:|:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:--------------|
+|  1 | [日新軟體股份有限公司](https://www.104.com.tw/company/oi77qwg?jobsource=jolist_c_relevance) | [Python 資深工程師](https://www.104.com.tw/job/6yfn5?jobsource=jolist_c_relevance)            | 1/12          |
+|  2 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance) | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_c_relevance) | 1/08          |
+|  3 | [麟數據科技股份有限公司](https://www.104.com.tw/company/1a2x6bjpwh?jobsource=2018indexpoc)   | [Python程式設計師](https://www.104.com.tw/job/6uj6n?jobsource=2018indexpoc)                   | 1/14          |
 
-
- ### Platform - 1111
-
+### Platform - 1111
 
 
 |    | company                                                  | job_title                                           | update_time   |
@@ -30,9 +26,7 @@
 |  5 | [長青資訊股份有限公司](https://www.1111.com.tw/corp/71694811/)     | [後端工程師](https://www.1111.com.tw/job/85012186/)      | 2021-01-12    |
 |  6 | [鼎漢國際工程顧問股份有限公司](https://www.1111.com.tw/corp/51468466/) | [後端工程師](https://www.1111.com.tw/job/85884563/)      | 2021-01-13    |
 
-
- ### Platform - CakeResume
-
+### Platform - CakeResume
 
 
 |    | company                                                                               | job_title                                                                                                                           | update_time          |
