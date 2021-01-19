@@ -10,14 +10,14 @@
 
 |    | company                                                                               | job_title                                                                                   | update_time   |
 |---:|:--------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:--------------|
-|  1 | [日新軟體股份有限公司](https://www.104.com.tw/company/oi77qwg?jobsource=jolist_a_relevance)     | [Python 資深工程師](https://www.104.com.tw/job/6yfn5?jobsource=jolist_a_relevance)               | 1/12          |
+|  1 | [日新軟體股份有限公司](https://www.104.com.tw/company/oi77qwg?jobsource=jolist_b_relevance)     | [Python 資深工程師](https://www.104.com.tw/job/6yfn5?jobsource=jolist_b_relevance)               | 1/12          |
 |  2 | [永昕生物醫藥股份有限公司](https://www.104.com.tw/company/5xfw7xk?jobsource=2018indexpoc)         | [細胞產程開發研究員(台北)](https://www.104.com.tw/job/6ujnv?jobsource=2018indexpoc)                    | 1/19          |
 |  3 | [澤喆數位科技股份有限公司](https://www.104.com.tw/company/1a2x6bl2y0?jobsource=2018indexpoc)      | [後端工程師(Back-end Engineer )](https://www.104.com.tw/job/6uvmx?jobsource=2018indexpoc)        | 1/19          |
 |  4 | [禾向數位科技有限公司](https://www.104.com.tw/company/1a2x6bl8h8?jobsource=2018indexpoc)        | [Python Backend Engineer](https://www.104.com.tw/job/71i7c?jobsource=2018indexpoc)          | 1/19          |
 |  5 | [紅番茄愛娛樂股份有限公司](https://www.104.com.tw/company/1a2x6bkx4r?jobsource=2018indexpoc)      | [遊戲後端工程師 Back-End Developer](https://www.104.com.tw/job/71ahq?jobsource=2018indexpoc)       | 1/19          |
 |  6 | [紅石資訊有限公司](https://www.104.com.tw/company/1a2x6bl8xj?jobsource=2018indexpoc)          | [(後台系統開發)python軟體工程師](https://www.104.com.tw/job/7288s?jobsource=2018indexpoc)              | 1/19          |
 |  7 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=2018indexpoc)           | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=2018indexpoc)          | 1/19          |
-|  8 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance)     | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_a_relevance)    | 1/19          |
+|  8 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance)     | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_b_relevance)    | 1/19          |
 |  9 | [美商美創資通股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bjdsb?jobsource=2018indexpoc) | [資深後端系統工程師 (python)](https://www.104.com.tw/job/4mfzt?jobsource=2018indexpoc)               | 1/19          |
 | 10 | [美商美創資通股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bjdsb?jobsource=2018indexpoc) | [資深Web後端工程師](https://www.104.com.tw/job/6y6f0?jobsource=2018indexpoc)                       | 1/19          |
 | 11 | [蓋特資訊系統股份有限公司](https://www.104.com.tw/company/1a2x6biptb?jobsource=2018indexpoc)      | [Python 後端工程師](https://www.104.com.tw/job/6vdrl?jobsource=2018indexpoc)                     | 1/19          |
