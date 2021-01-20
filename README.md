@@ -8,11 +8,11 @@
 ### Platform - 104
 
 
-|    | company                                                                      | job_title                                                                          | update_time   |
-|---:|:-----------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|:--------------|
-|  1 | [日新軟體股份有限公司](https://www.104.com.tw/company/oi77qwg?jobsource=2018indexpoc)  | [Python 資深工程師](https://www.104.com.tw/job/6yfn5?jobsource=2018indexpoc)            | 1/12          |
-|  2 | [米約科技有限公司](https://www.104.com.tw/company/1a2x6bl97m?jobsource=2018indexpoc) | [Python工程師](https://www.104.com.tw/job/6zey2?jobsource=2018indexpoc)               | 1/20          |
-|  3 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=2018indexpoc)  | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=2018indexpoc) | 1/19          |
+|    | company                                                                           | job_title                                                                                | update_time   |
+|---:|:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:--------------|
+|  1 | [日新軟體股份有限公司](https://www.104.com.tw/company/oi77qwg?jobsource=jolist_a_relevance) | [Python 資深工程師](https://www.104.com.tw/job/6yfn5?jobsource=jolist_a_relevance)            | 1/12          |
+|  2 | [米約科技有限公司](https://www.104.com.tw/company/1a2x6bl97m?jobsource=2018indexpoc)      | [Python工程師](https://www.104.com.tw/job/6zey2?jobsource=2018indexpoc)                     | 1/20          |
+|  3 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance) | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_a_relevance) | 1/19          |
 
 ### Platform - 1111
 
