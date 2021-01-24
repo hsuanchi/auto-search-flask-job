@@ -8,13 +8,14 @@
 ### Platform - 104
 
 
-|    | company                                                                          | job_title                                                                                    | update_time   |
-|---:|:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|:--------------|
-|  1 | [今時科技股份有限公司](https://www.104.com.tw/company/1a2x6bl2u4?jobsource=2018indexpoc)   | [網頁開發工程師](https://www.104.com.tw/job/75jgv?jobsource=2018indexpoc)                           | 1/24          |
-|  2 | [日新軟體股份有限公司](https://www.104.com.tw/company/oi77qwg?jobsource=2018indexpoc)      | [Python 資深工程師](https://www.104.com.tw/job/6yfn5?jobsource=2018indexpoc)                      | 1/21          |
-|  3 | [早餐吃麥片_饌元有限公司](https://www.104.com.tw/company/1a2x6bj9jb?jobsource=2018indexpoc) | [後端 Python 工程師 ( UrMart / 早餐吃麥片 )](https://www.104.com.tw/job/6621b?jobsource=2018indexpoc)  | 1/24          |
-|  4 | [禾新數位有限公司](https://www.104.com.tw/company/1a2x6bjs3i?jobsource=2018indexpoc)     | [[ S-01 ] Developer 開發工程師 (Python)](https://www.104.com.tw/job/6rrkz?jobsource=2018indexpoc) | 1/23          |
-|  5 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=2018indexpoc)      | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=2018indexpoc)           | 1/19          |
+|    | company                                                                           | job_title                                                                                          | update_time   |
+|---:|:----------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------|:--------------|
+|  1 | [今時科技股份有限公司](https://www.104.com.tw/company/1a2x6bl2u4?jobsource=2018indexpoc)    | [網頁開發工程師](https://www.104.com.tw/job/75jgv?jobsource=2018indexpoc)                                 | 1/24          |
+|  2 | [好好投資科技股份有限公司](https://www.104.com.tw/company/1a2x6bjpjb?jobsource=2018indexpoc)  | [Backend Engineer(需熟Python、RESTful API )](https://www.104.com.tw/job/5572i?jobsource=2018indexpoc) | 1/25          |
+|  3 | [日新軟體股份有限公司](https://www.104.com.tw/company/oi77qwg?jobsource=jolist_a_relevance) | [Python 資深工程師](https://www.104.com.tw/job/6yfn5?jobsource=jolist_a_relevance)                      | 1/21          |
+|  4 | [早餐吃麥片_饌元有限公司](https://www.104.com.tw/company/1a2x6bj9jb?jobsource=2018indexpoc)  | [後端 Python 工程師 ( UrMart / 早餐吃麥片 )](https://www.104.com.tw/job/6621b?jobsource=2018indexpoc)        | 1/24          |
+|  5 | [禾新數位有限公司](https://www.104.com.tw/company/1a2x6bjs3i?jobsource=2018indexpoc)      | [[ S-01 ] Developer 開發工程師 (Python)](https://www.104.com.tw/job/6rrkz?jobsource=2018indexpoc)       | 1/23          |
+|  6 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance) | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_a_relevance)           | 1/19          |
 
 ### Platform - 1111
 
