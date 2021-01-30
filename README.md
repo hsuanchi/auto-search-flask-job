@@ -8,10 +8,11 @@
 ### Platform - 104
 
 
-|    | company                                                                           | job_title                                                                                | update_time   |
-|---:|:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:--------------|
-|  1 | [日新軟體股份有限公司](https://www.104.com.tw/company/oi77qwg?jobsource=jolist_a_relevance) | [Python 資深工程師](https://www.104.com.tw/job/6yfn5?jobsource=jolist_a_relevance)            | 1/28          |
-|  2 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance) | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_a_relevance) | 1/26          |
+|    | company                                                                      | job_title                                                                                    | update_time   |
+|---:|:-----------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|:--------------|
+|  1 | [日新軟體股份有限公司](https://www.104.com.tw/company/oi77qwg?jobsource=2018indexpoc)  | [Python 資深工程師](https://www.104.com.tw/job/6yfn5?jobsource=2018indexpoc)                      | 1/28          |
+|  2 | [禾新數位有限公司](https://www.104.com.tw/company/1a2x6bjs3i?jobsource=2018indexpoc) | [[ S-01 ] Developer 開發工程師 (Python)](https://www.104.com.tw/job/6rrkz?jobsource=2018indexpoc) | 1/30          |
+|  3 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=2018indexpoc)  | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=2018indexpoc)           | 1/26          |
 
 ### Platform - 1111
 
@@ -30,8 +31,8 @@
 
 |    | company                                                                               | job_title                                                                                                                           | update_time          |
 |---:|:--------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|:---------------------|
-|  1 | [Cathay Financial Holdings 國泰金控](https://www.cakeresume.com/companies/cathayholdings) | [數位研發專業人員-Python Software Engineer(數數發中心, DDT)](https://www.cakeresume.com/companies/cathayholdings/jobs/f5c69a)                    | Updated 19 days ago  |
-|  2 | [愛碼市智能科技股份有限公司](https://www.cakeresume.com/companies/imarts)                          | [全端工程師 (台北)](https://www.cakeresume.com/companies/imarts/jobs/full-engineer-a09a83)                                                 | Updated 17 days ago  |
+|  1 | [Cathay Financial Holdings 國泰金控](https://www.cakeresume.com/companies/cathayholdings) | [數位研發專業人員-Python Software Engineer(數數發中心, DDT)](https://www.cakeresume.com/companies/cathayholdings/jobs/f5c69a)                    | Updated 20 days ago  |
+|  2 | [愛碼市智能科技股份有限公司](https://www.cakeresume.com/companies/imarts)                          | [全端工程師 (台北)](https://www.cakeresume.com/companies/imarts/jobs/full-engineer-a09a83)                                                 | Updated 18 days ago  |
 |  3 | [愛碼市智能科技股份有限公司](https://www.cakeresume.com/companies/imarts)                          | [網頁後端工程師 (台北)](https://www.cakeresume.com/companies/imarts/jobs/senior-software-engineer-10852a)                                    | Updated a month ago  |
 |  4 | [愛飛媒平股份有限公司](https://www.cakeresume.com/companies/avmapping)                          | [Python網頁後端工程師](https://www.cakeresume.com/companies/avmapping/jobs/web-backend-engineer-c24e5a)                                    | Updated a month ago  |
 |  5 | [紅門互動股份有限公司](https://www.cakeresume.com/companies/eagleeye-5332f1)                    | [Python Flask網站開發工程師(台北)](https://www.cakeresume.com/companies/eagleeye-5332f1/jobs/python-flask-web-development-engineer-taipei)   | Updated 5 months ago |
