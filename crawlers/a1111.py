@@ -26,6 +26,8 @@ class A1111(BaseCrawler):
         return job.find(class_="item__job-info--link").get("href")
 
     def update_time(self, job: Tag) -> str:
-        return job.find(class_="item__job-control-datechange").get("data-yyyy")
-        +"-"
-        +job.find(class_="item__job-control-datechange").get("data-mmdd")
+        return (
+            job.find(class_="item__job-control-datechange").get("data-yyyy")
+            + "-"
+            + job.find(class_="item__job-control-datechange").get("data-mmdd")
+        )
