@@ -10,7 +10,7 @@
 
 |    | company                                                                           | job_title                                                                                | update_time   |
 |---:|:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:--------------|
-|  1 | [同步科技股份有限公司](https://www.104.com.tw/company/1a2x6ble88?jobsource=2018indexpoc)    | [後端工程師](https://www.104.com.tw/job/76q8x?jobsource=2018indexpoc)                         | 2/16          |
+|  1 | [禾新數位有限公司](https://www.104.com.tw/company/1a2x6bjs3i?jobsource=2018indexpoc)      | [[ CST-2 ] Full Stack Engineer](https://www.104.com.tw/job/76q8f?jobsource=2018indexpoc) | 2/17          |
 |  2 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance) | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_b_relevance) | 2/03          |
 
 ### Platform - 1111
