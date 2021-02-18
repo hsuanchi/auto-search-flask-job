@@ -10,7 +10,7 @@
 
 |    | company                                                                            | job_title                                                                                | update_time   |
 |---:|:-----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:--------------|
-|  1 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance)  | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_c_relevance) | 2/17          |
+|  1 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance)  | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_b_relevance) | 2/17          |
 |  2 | [英商引達取有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bkz0n?jobsource=2018indexpoc) | [[台北] Data Engineer](https://www.104.com.tw/job/6pki0?jobsource=2018indexpoc)            | 2/18          |
 |  3 | [雄獅資訊科技股份有限公司](https://www.104.com.tw/company/13kq7dpk?jobsource=2018indexpoc)     | [python工程師](https://www.104.com.tw/job/71rxc?jobsource=2018indexpoc)                     | 2/18          |
 
