@@ -8,13 +8,13 @@
 ### Platform - 104
 
 
-|    | company                                                                              | job_title                                                                                    | update_time   |
-|---:|:-------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|:--------------|
-|  1 | [協雲科技股份有限公司](https://www.104.com.tw/company/1a2x6bl4k5?jobsource=2018indexpoc)       | [後端開發工程師](https://www.104.com.tw/job/6v29e?jobsource=2018indexpoc)                           | 2/20          |
-|  2 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_b_relevance) | [Python後端工程師(IoT物聯網)](https://www.104.com.tw/job/76vbt?jobsource=jolist_b_relevance)         | 2/18          |
-|  3 | [禾新數位有限公司](https://www.104.com.tw/company/1a2x6bjs3i?jobsource=2018indexpoc)         | [[ S-01 ] Developer 開發工程師 (Python)](https://www.104.com.tw/job/6rrkz?jobsource=2018indexpoc) | 2/21          |
-|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance)    | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_b_relevance)     | 2/17          |
-|  5 | [長佳智能股份有限公司](https://www.104.com.tw/company/1a2x6bkoxb?jobsource=2018indexpoc)       | [後端工程師](https://www.104.com.tw/job/6qa54?jobsource=2018indexpoc)                             | 2/20          |
+|    | company                                                                        | job_title                                                                                    | update_time   |
+|---:|:-------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|:--------------|
+|  1 | [協雲科技股份有限公司](https://www.104.com.tw/company/1a2x6bl4k5?jobsource=2018indexpoc) | [後端開發工程師](https://www.104.com.tw/job/6v29e?jobsource=2018indexpoc)                           | 2/20          |
+|  2 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=2018indexpoc) | [Python後端工程師(IoT物聯網)](https://www.104.com.tw/job/76vbt?jobsource=2018indexpoc)               | 2/18          |
+|  3 | [禾新數位有限公司](https://www.104.com.tw/company/1a2x6bjs3i?jobsource=2018indexpoc)   | [[ S-01 ] Developer 開發工程師 (Python)](https://www.104.com.tw/job/6rrkz?jobsource=2018indexpoc) | 2/21          |
+|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=2018indexpoc)    | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=2018indexpoc)           | 2/17          |
+|  5 | [長佳智能股份有限公司](https://www.104.com.tw/company/1a2x6bkoxb?jobsource=2018indexpoc) | [後端工程師](https://www.104.com.tw/job/6qa54?jobsource=2018indexpoc)                             | 2/20          |
 
 ### Platform - 1111
 
