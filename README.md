@@ -8,15 +8,15 @@
 ### Platform - 104
 
 
-|    | company                                                                            | job_title                                                                                        | update_time   |
-|---:|:-----------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|:--------------|
-|  1 | [小柿智檢科技股份有限公司](https://www.104.com.tw/company/1a2x6bl77l?jobsource=2018indexpoc)   | [後端工程師 Back-End Engineer](https://www.104.com.tw/job/71bmd?jobsource=2018indexpoc)               | 2/22          |
-|  2 | [新加坡商雷霆萬鈞有限公司](https://www.104.com.tw/company/1a2x6bkxvj?jobsource=2018indexpoc)   | [python工程師](https://www.104.com.tw/job/771k6?jobsource=2018indexpoc)                             | 2/22          |
-|  3 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=2018indexpoc)     | [Python後端工程師(IoT物聯網)](https://www.104.com.tw/job/76vbt?jobsource=2018indexpoc)                   | 2/18          |
-|  4 | [精拓生技股份有限公司](https://www.104.com.tw/company/1a2x6bl3p2?jobsource=2018indexpoc)     | [全端工程師 Full Stack Engineer (歡迎初入職場新鮮人)](https://www.104.com.tw/job/718da?jobsource=2018indexpoc) | 2/22          |
-|  5 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=2018indexpoc)        | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=2018indexpoc)               | 2/17          |
-|  6 | [美商連科股份有限公司](https://www.104.com.tw/company/1a2x6bk74i?jobsource=2018indexpoc)     | [資深軟體工程師 (AI System Connectivity)](https://www.104.com.tw/job/6z5mg?jobsource=2018indexpoc)      | 2/22          |
-|  7 | [霖園關係企業_神坊資訊股份有限公司](https://www.104.com.tw/company/wdapdfc?jobsource=2018indexpoc) | [全端工程師(Full Stack Software Engineer)](https://www.104.com.tw/job/6xa1a?jobsource=2018indexpoc)   | 2/22          |
+|    | company                                                                              | job_title                                                                                        | update_time   |
+|---:|:-------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|:--------------|
+|  1 | [小柿智檢科技股份有限公司](https://www.104.com.tw/company/1a2x6bl77l?jobsource=2018indexpoc)     | [後端工程師 Back-End Engineer](https://www.104.com.tw/job/71bmd?jobsource=2018indexpoc)               | 2/22          |
+|  2 | [新加坡商雷霆萬鈞有限公司](https://www.104.com.tw/company/1a2x6bkxvj?jobsource=2018indexpoc)     | [python工程師](https://www.104.com.tw/job/771k6?jobsource=2018indexpoc)                             | 2/22          |
+|  3 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_b_relevance) | [Python後端工程師(IoT物聯網)](https://www.104.com.tw/job/76vbt?jobsource=jolist_b_relevance)             | 2/18          |
+|  4 | [精拓生技股份有限公司](https://www.104.com.tw/company/1a2x6bl3p2?jobsource=2018indexpoc)       | [全端工程師 Full Stack Engineer (歡迎初入職場新鮮人)](https://www.104.com.tw/job/718da?jobsource=2018indexpoc) | 2/22          |
+|  5 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance)    | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_b_relevance)         | 2/17          |
+|  6 | [美商連科股份有限公司](https://www.104.com.tw/company/1a2x6bk74i?jobsource=2018indexpoc)       | [資深軟體工程師 (AI System Connectivity)](https://www.104.com.tw/job/6z5mg?jobsource=2018indexpoc)      | 2/22          |
+|  7 | [霖園關係企業_神坊資訊股份有限公司](https://www.104.com.tw/company/wdapdfc?jobsource=2018indexpoc)   | [全端工程師(Full Stack Software Engineer)](https://www.104.com.tw/job/6xa1a?jobsource=2018indexpoc)   | 2/22          |
 
 ### Platform - 1111
 
