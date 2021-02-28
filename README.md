@@ -8,26 +8,25 @@
 ### Platform - 104
 
 
-|    | company                                                                              | job_title                                                                                    | update_time   |
-|---:|:-------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|:--------------|
-|  1 | [日新軟體股份有限公司](https://www.104.com.tw/company/oi77qwg?jobsource=jolist_a_relevance)    | [Python 資深工程師](https://www.104.com.tw/job/6yfn5?jobsource=jolist_a_relevance)                | 2/26          |
-|  2 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_a_relevance) | [Python後端工程師(IoT物聯網)](https://www.104.com.tw/job/76vbt?jobsource=jolist_a_relevance)         | 2/25          |
-|  3 | [禾新數位有限公司](https://www.104.com.tw/company/1a2x6bjs3i?jobsource=2018indexpoc)         | [[ S-01 ] Developer 開發工程師 (Python)](https://www.104.com.tw/job/6rrkz?jobsource=2018indexpoc) | 2/28          |
-|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance)    | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_a_relevance)     | 2/25          |
-|  5 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance)    | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_a_relevance)     | 2/24          |
+|    | company                                                                        | job_title                                                                                    | update_time   |
+|---:|:-------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|:--------------|
+|  1 | [日新軟體股份有限公司](https://www.104.com.tw/company/oi77qwg?jobsource=2018indexpoc)    | [Python 資深工程師](https://www.104.com.tw/job/6yfn5?jobsource=2018indexpoc)                      | 2/26          |
+|  2 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=2018indexpoc) | [Python後端工程師(IoT物聯網)](https://www.104.com.tw/job/76vbt?jobsource=2018indexpoc)               | 2/25          |
+|  3 | [禾新數位有限公司](https://www.104.com.tw/company/1a2x6bjs3i?jobsource=2018indexpoc)   | [[ S-01 ] Developer 開發工程師 (Python)](https://www.104.com.tw/job/6rrkz?jobsource=2018indexpoc) | 2/28          |
+|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=2018indexpoc)    | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=2018indexpoc)           | 2/25          |
+|  5 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=2018indexpoc)    | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=2018indexpoc)           | 2/24          |
 
 ### Platform - 1111
 
 
 |    | company                                                  | job_title                                                              | update_time   |
 |---:|:---------------------------------------------------------|:-----------------------------------------------------------------------|:--------------|
-|  1 | [(派遣)創為人力資源有限公司](https://www.1111.com.tw/corp/72531811/) | [Python工程師](https://www.1111.com.tw/job/91178382/)                     | 2021-02-26    |
-|  2 | [國立臺灣大學](https://www.1111.com.tw/corp/54510630/)         | [臺灣大學心理學系黃從仁老師誠徵網站前/後端全職/兼職工程師](https://www.1111.com.tw/job/92210744/) | 2021-02-26    |
-|  3 | [展市華科技有限公司](https://www.1111.com.tw/corp/72520572/)      | [全端網頁工程師](https://www.1111.com.tw/job/91503317/)                       | 2021-02-26    |
-|  4 | [展市華科技有限公司](https://www.1111.com.tw/corp/72520572/)      | [後端開發工程師](https://www.1111.com.tw/job/92133533/)                       | 2021-02-26    |
-|  5 | [展市華科技有限公司](https://www.1111.com.tw/corp/72520572/)      | [網頁工程師](https://www.1111.com.tw/job/91605448/)                         | 2021-02-26    |
-|  6 | [長青資訊股份有限公司](https://www.1111.com.tw/corp/71694811/)     | [後端工程師](https://www.1111.com.tw/job/85012186/)                         | 2021-02-26    |
-|  7 | [鼎漢國際工程顧問股份有限公司](https://www.1111.com.tw/corp/51468466/) | [後端工程師](https://www.1111.com.tw/job/85884563/)                         | 2021-02-27    |
+|  1 | [國立臺灣大學](https://www.1111.com.tw/corp/54510630/)         | [臺灣大學心理學系黃從仁老師誠徵網站前/後端全職/兼職工程師](https://www.1111.com.tw/job/92210744/) | 2021-02-26    |
+|  2 | [展市華科技有限公司](https://www.1111.com.tw/corp/72520572/)      | [全端網頁工程師](https://www.1111.com.tw/job/91503317/)                       | 2021-02-26    |
+|  3 | [展市華科技有限公司](https://www.1111.com.tw/corp/72520572/)      | [後端開發工程師](https://www.1111.com.tw/job/92133533/)                       | 2021-02-26    |
+|  4 | [展市華科技有限公司](https://www.1111.com.tw/corp/72520572/)      | [網頁工程師](https://www.1111.com.tw/job/91605448/)                         | 2021-02-26    |
+|  5 | [長青資訊股份有限公司](https://www.1111.com.tw/corp/71694811/)     | [後端工程師](https://www.1111.com.tw/job/85012186/)                         | 2021-02-26    |
+|  6 | [鼎漢國際工程顧問股份有限公司](https://www.1111.com.tw/corp/51468466/) | [後端工程師](https://www.1111.com.tw/job/85884563/)                         | 2021-02-27    |
 
 ### Platform - CakeResume
 
