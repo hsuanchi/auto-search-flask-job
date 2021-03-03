@@ -8,15 +8,15 @@
 ### Platform - 104
 
 
-|    | company                                                                              | job_title                                                                                               | update_time   |
-|---:|:-------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:--------------|
-|  1 | [光禾感知科技股份有限公司](https://www.104.com.tw/company/1a2x6bks9s?jobsource=2018indexpoc)     | [Python後端工程師](https://www.104.com.tw/job/71j4l?jobsource=2018indexpoc)                                  | 3/03          |
-|  2 | [大數據股份有限公司](https://www.104.com.tw/company/1a2x6bjjhc?jobsource=2018indexpoc)        | [分析研發工程師: AI, Deep Learning, Machine Learning](https://www.104.com.tw/job/54ffa?jobsource=2018indexpoc) | 3/03          |
-|  3 | [日新軟體股份有限公司](https://www.104.com.tw/company/oi77qwg?jobsource=jolist_c_relevance)    | [Python 資深工程師](https://www.104.com.tw/job/6yfn5?jobsource=jolist_c_relevance)                           | 2/26          |
-|  4 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_c_relevance) | [Python後端工程師(IoT物聯網)](https://www.104.com.tw/job/76vbt?jobsource=jolist_c_relevance)                    | 2/25          |
-|  5 | [禾向數位科技有限公司](https://www.104.com.tw/company/1a2x6bl8h8?jobsource=2018indexpoc)       | [Python Backend Engineer](https://www.104.com.tw/job/71i7c?jobsource=2018indexpoc)                      | 3/03          |
-|  6 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance)    | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_c_relevance)                | 2/25          |
-|  7 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance)    | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_c_relevance)                | 2/24          |
+|    | company                                                                          | job_title                                                                                               | update_time   |
+|---:|:---------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:--------------|
+|  1 | [光禾感知科技股份有限公司](https://www.104.com.tw/company/1a2x6bks9s?jobsource=2018indexpoc) | [Python後端工程師](https://www.104.com.tw/job/71j4l?jobsource=2018indexpoc)                                  | 3/03          |
+|  2 | [大數據股份有限公司](https://www.104.com.tw/company/1a2x6bjjhc?jobsource=2018indexpoc)    | [分析研發工程師: AI, Deep Learning, Machine Learning](https://www.104.com.tw/job/54ffa?jobsource=2018indexpoc) | 3/03          |
+|  3 | [日新軟體股份有限公司](https://www.104.com.tw/company/oi77qwg?jobsource=2018indexpoc)      | [Python 資深工程師](https://www.104.com.tw/job/6yfn5?jobsource=2018indexpoc)                                 | 2/26          |
+|  4 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=2018indexpoc)   | [Python後端工程師(IoT物聯網)](https://www.104.com.tw/job/76vbt?jobsource=2018indexpoc)                          | 2/25          |
+|  5 | [禾向數位科技有限公司](https://www.104.com.tw/company/1a2x6bl8h8?jobsource=2018indexpoc)   | [Python Backend Engineer](https://www.104.com.tw/job/71i7c?jobsource=2018indexpoc)                      | 3/03          |
+|  6 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=2018indexpoc)      | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=2018indexpoc)                      | 2/25          |
+|  7 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=2018indexpoc)      | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=2018indexpoc)                      | 2/24          |
 
 ### Platform - 1111
 
@@ -28,7 +28,7 @@
 |  3 | [展市華科技有限公司](https://www.1111.com.tw/corp/72520572/)      | [後端開發工程師](https://www.1111.com.tw/job/92133533/)                       | 2021-03-03    |
 |  4 | [展市華科技有限公司](https://www.1111.com.tw/corp/72520572/)      | [網頁工程師](https://www.1111.com.tw/job/91605448/)                         | 2021-03-03    |
 |  5 | [長青資訊股份有限公司](https://www.1111.com.tw/corp/71694811/)     | [後端工程師](https://www.1111.com.tw/job/85012186/)                         | 2021-03-03    |
-|  6 | [鼎漢國際工程顧問股份有限公司](https://www.1111.com.tw/corp/51468466/) | [後端工程師](https://www.1111.com.tw/job/85884563/)                         | 2021-02-27    |
+|  6 | [鼎漢國際工程顧問股份有限公司](https://www.1111.com.tw/corp/51468466/) | [後端工程師](https://www.1111.com.tw/job/85884563/)                         | 2021-03-04    |
 
 ### Platform - CakeResume
 
