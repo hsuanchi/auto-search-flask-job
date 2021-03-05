@@ -8,15 +8,15 @@
 ### Platform - 104
 
 
-|    | company                                                                               | job_title                                                                                | update_time   |
-|---:|:--------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:--------------|
-|  1 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_a_relevance)  | [Python後端工程師(IoT物聯網)](https://www.104.com.tw/job/76vbt?jobsource=jolist_a_relevance)     | 3/04          |
-|  2 | [永昕生物醫藥股份有限公司](https://www.104.com.tw/company/5xfw7xk?jobsource=2018indexpoc)         | [細胞產程開發研究員(台北)](https://www.104.com.tw/job/6ujnv?jobsource=2018indexpoc)                 | 3/05          |
-|  3 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance)     | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_a_relevance) | 2/25          |
-|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance)     | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_a_relevance) | 2/24          |
-|  5 | [美商美創資通股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bjdsb?jobsource=2018indexpoc) | [資深Web後端工程師](https://www.104.com.tw/job/6y6f0?jobsource=2018indexpoc)                    | 3/05          |
-|  6 | [美商美創資通股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bjdsb?jobsource=2018indexpoc) | [資深後端系統工程師 (python)](https://www.104.com.tw/job/4mfzt?jobsource=2018indexpoc)            | 3/05          |
-|  7 | [華碩雲端股份有限公司](https://www.104.com.tw/company/wekjlls?jobsource=2018indexpoc)           | [軟體品質工程師(SQA)](https://www.104.com.tw/job/6ubin?jobsource=2018indexpoc)                  | 3/05          |
+|    | company                                                                               | job_title                                                                          | update_time   |
+|---:|:--------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|:--------------|
+|  1 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=2018indexpoc)        | [Python後端工程師(IoT物聯網)](https://www.104.com.tw/job/76vbt?jobsource=2018indexpoc)     | 3/04          |
+|  2 | [永昕生物醫藥股份有限公司](https://www.104.com.tw/company/5xfw7xk?jobsource=2018indexpoc)         | [細胞產程開發研究員(台北)](https://www.104.com.tw/job/6ujnv?jobsource=2018indexpoc)           | 3/05          |
+|  3 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=2018indexpoc)           | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=2018indexpoc) | 2/25          |
+|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=2018indexpoc)           | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=2018indexpoc) | 2/24          |
+|  5 | [美商美創資通股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bjdsb?jobsource=2018indexpoc) | [資深Web後端工程師](https://www.104.com.tw/job/6y6f0?jobsource=2018indexpoc)              | 3/05          |
+|  6 | [美商美創資通股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bjdsb?jobsource=2018indexpoc) | [資深後端系統工程師 (python)](https://www.104.com.tw/job/4mfzt?jobsource=2018indexpoc)      | 3/05          |
+|  7 | [華碩雲端股份有限公司](https://www.104.com.tw/company/wekjlls?jobsource=2018indexpoc)           | [軟體品質工程師(SQA)](https://www.104.com.tw/job/6ubin?jobsource=2018indexpoc)            | 3/05          |
 
 ### Platform - 1111
 
