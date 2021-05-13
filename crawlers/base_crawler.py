@@ -39,6 +39,7 @@ class BaseCrawler(ABC):
 
     def fetch_data(self):
         page = 1
+        print(self.platform_name)
 
         while page < 3:
 
