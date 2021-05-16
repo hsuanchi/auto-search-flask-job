@@ -61,6 +61,7 @@ class JobCrawler:
         import matplotlib.pyplot as plt
 
         df = pd.read_csv(self.csv_path)
+        print("save to img")
         datetime = df["datetime"]
         columns_name = df.columns.values[1:]
 
