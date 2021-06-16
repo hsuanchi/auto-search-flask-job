@@ -8,14 +8,15 @@
 ### Platform - 104
 
 
-|    | company                                                                              | job_title                                                                                     | update_time   |
-|---:|:-------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|:--------------|
-|  1 | [富萱科技股份有限公司](https://www.104.com.tw/company/1a2x6bkf9i?jobsource=2018indexpoc)       | [Back End 研發工程師](https://www.104.com.tw/job/7ambq?jobsource=2018indexpoc)                     | 6/16          |
-|  2 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_c_relevance) | [Python爬蟲工程師(台北)](https://www.104.com.tw/job/7aydt?jobsource=jolist_c_relevance)              | 6/10          |
-|  3 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_c_relevance) | [Python爬蟲工程師(高雄)](https://www.104.com.tw/job/7aydm?jobsource=jolist_c_relevance)              | 6/10          |
-|  4 | [桔畝智慧股份有限公司](https://www.104.com.tw/company/1a2x6blm8y?jobsource=2018indexpoc)       | [Back-End Development Engineer後端工程師](https://www.104.com.tw/job/7a80a?jobsource=2018indexpoc) | 6/17          |
-|  5 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance)    | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_c_relevance)      | 6/10          |
-|  6 | [艾斯移動股份有限公司](https://www.104.com.tw/company/cv8shww?jobsource=2018indexpoc)          | [自然語言處理工程師 (NLP Engineer)](https://www.104.com.tw/job/6nmld?jobsource=2018indexpoc)           | 6/16          |
+|    | company                                                                        | job_title                                                                                     | update_time   |
+|---:|:-------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|:--------------|
+|  1 | [富萱科技股份有限公司](https://www.104.com.tw/company/1a2x6bkf9i?jobsource=2018indexpoc) | [Back End 研發工程師](https://www.104.com.tw/job/7ambq?jobsource=2018indexpoc)                     | 6/16          |
+|  2 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=2018indexpoc) | [Python爬蟲工程師(高雄)](https://www.104.com.tw/job/7aydm?jobsource=2018indexpoc)                    | 6/10          |
+|  3 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=2018indexpoc) | [Python爬蟲工程師(台北)](https://www.104.com.tw/job/7aydt?jobsource=2018indexpoc)                    | 6/10          |
+|  4 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=2018indexpoc) | [Python後端開發工程師(DevOps整合平台)](https://www.104.com.tw/job/7asvo?jobsource=2018indexpoc)          | 6/10          |
+|  5 | [桔畝智慧股份有限公司](https://www.104.com.tw/company/1a2x6blm8y?jobsource=2018indexpoc) | [Back-End Development Engineer後端工程師](https://www.104.com.tw/job/7a80a?jobsource=2018indexpoc) | 6/17          |
+|  6 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=2018indexpoc)    | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=2018indexpoc)            | 6/10          |
+|  7 | [艾斯移動股份有限公司](https://www.104.com.tw/company/cv8shww?jobsource=2018indexpoc)    | [自然語言處理工程師 (NLP Engineer)](https://www.104.com.tw/job/6nmld?jobsource=2018indexpoc)           | 6/16          |
 
 ### Platform - 1111
 
