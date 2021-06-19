@@ -8,24 +8,25 @@
 ### Platform - 104
 
 
-|    | company                                                                              | job_title                                                                                      | update_time   |
-|---:|:-------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------|:--------------|
-|  1 | [今時科技股份有限公司](https://www.104.com.tw/company/1a2x6bl2u4?jobsource=2018indexpoc)       | [網頁前端程式設計師](https://www.104.com.tw/job/79aqn?jobsource=2018indexpoc)                           | 6/18          |
-|  2 | [博思資訊管理顧問有限公司](https://www.104.com.tw/company/1a2x6blhw5?jobsource=2018indexpoc)     | [Python工程師(可遠端工作)](https://www.104.com.tw/job/78f5b?jobsource=2018indexpoc)                    | 6/19          |
-|  3 | [宏佳騰動力科技股份有限公司](https://www.104.com.tw/company/111bwt14?jobsource=2018indexpoc)      | [Python全端工程師](https://www.104.com.tw/job/6s9aa?jobsource=2018indexpoc)                         | 6/18          |
-|  4 | [富萱科技股份有限公司](https://www.104.com.tw/company/1a2x6bkf9i?jobsource=jolist_c_relevance) | [RD Team Lead](https://www.104.com.tw/job/771a6?jobsource=jolist_c_relevance)                  | 6/15          |
-|  5 | [德義資訊股份有限公司](https://www.104.com.tw/company/oe84aqo?jobsource=jolist_c_relevance)    | [Backend 系統開發工程師](https://www.104.com.tw/job/7awmz?jobsource=jolist_c_relevance)               | 6/15          |
-|  6 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_c_relevance) | [Python爬蟲工程師(高雄)](https://www.104.com.tw/job/7aydm?jobsource=jolist_c_relevance)               | 6/17          |
-|  7 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_c_relevance) | [Python後端開發工程師(DevOps整合平台)](https://www.104.com.tw/job/7asvo?jobsource=jolist_c_relevance)     | 6/17          |
-|  8 | [永昕生物醫藥股份有限公司](https://www.104.com.tw/company/5xfw7xk?jobsource=2018indexpoc)        | [細胞產程開發研究員(台北)](https://www.104.com.tw/job/6ujnv?jobsource=2018indexpoc)                       | 6/18          |
-|  9 | [英商引達取有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bkz0n?jobsource=2018indexpoc)   | [【台北】Data Engineer](https://www.104.com.tw/job/6pki0?jobsource=2018indexpoc)                   | 6/18          |
-| 10 | [英商引達取有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bkz0n?jobsource=2018indexpoc)   | [【台北】前端/全端工程師](https://www.104.com.tw/job/6pki1?jobsource=2018indexpoc)                        | 6/18          |
-| 11 | [長佳智能股份有限公司](https://www.104.com.tw/company/1a2x6bkoxb?jobsource=jolist_c_relevance) | [後端工程師](https://www.104.com.tw/job/6qa54?jobsource=jolist_c_relevance)                         | 6/02          |
-| 12 | [雄獅資訊科技股份有限公司](https://www.104.com.tw/company/13kq7dpk?jobsource=2018indexpoc)       | [python工程師](https://www.104.com.tw/job/71rxc?jobsource=2018indexpoc)                           | 6/18          |
-| 13 | [霖園關係企業_神坊資訊股份有限公司](https://www.104.com.tw/company/wdapdfc?jobsource=2018indexpoc)   | [新創電商技術主管 EC Tech Team leader](https://www.104.com.tw/job/7aelb?jobsource=2018indexpoc)        | 6/18          |
-| 14 | [霖園關係企業_神坊資訊股份有限公司](https://www.104.com.tw/company/wdapdfc?jobsource=2018indexpoc)   | [新創電商Backend Engineer (Python)](https://www.104.com.tw/job/7aenr?jobsource=2018indexpoc)       | 6/18          |
-| 15 | [霖園關係企業_神坊資訊股份有限公司](https://www.104.com.tw/company/wdapdfc?jobsource=2018indexpoc)   | [新創電商Frontend Engineer](https://www.104.com.tw/job/7aen9?jobsource=2018indexpoc)               | 6/18          |
-| 16 | [霖園關係企業_神坊資訊股份有限公司](https://www.104.com.tw/company/wdapdfc?jobsource=2018indexpoc)   | [全端工程師(Full Stack Software Engineer)](https://www.104.com.tw/job/6xa1a?jobsource=2018indexpoc) | 6/18          |
+|    | company                                                                              | job_title                                                                                               | update_time   |
+|---:|:-------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:--------------|
+|  1 | [今時科技股份有限公司](https://www.104.com.tw/company/1a2x6bl2u4?jobsource=2018indexpoc)       | [網頁前端程式設計師](https://www.104.com.tw/job/79aqn?jobsource=2018indexpoc)                                    | 6/18          |
+|  2 | [博思資訊管理顧問有限公司](https://www.104.com.tw/company/1a2x6blhw5?jobsource=2018indexpoc)     | [Python工程師(可遠端工作)](https://www.104.com.tw/job/78f5b?jobsource=2018indexpoc)                             | 6/19          |
+|  3 | [宏佳騰動力科技股份有限公司](https://www.104.com.tw/company/111bwt14?jobsource=2018indexpoc)      | [Python全端工程師](https://www.104.com.tw/job/6s9aa?jobsource=2018indexpoc)                                  | 6/18          |
+|  4 | [富萱科技股份有限公司](https://www.104.com.tw/company/1a2x6bkf9i?jobsource=jolist_a_relevance) | [RD Team Lead](https://www.104.com.tw/job/771a6?jobsource=jolist_a_relevance)                           | 6/15          |
+|  5 | [小柿智檢科技股份有限公司](https://www.104.com.tw/company/1a2x6bl77l?jobsource=2018indexpoc)     | [全端工程師 Full-Stack Engineer](https://www.104.com.tw/job/71bmz?jobsource=2018indexpoc)                    | 6/19          |
+|  6 | [小柿智檢科技股份有限公司](https://www.104.com.tw/company/1a2x6bl77l?jobsource=2018indexpoc)     | [後端工程師 Back-End Engineer](https://www.104.com.tw/job/71bmd?jobsource=2018indexpoc)                      | 6/19          |
+|  7 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_a_relevance) | [Python爬蟲工程師(高雄)](https://www.104.com.tw/job/7aydm?jobsource=jolist_a_relevance)                        | 6/17          |
+|  8 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_a_relevance) | [Python後端開發工程師(DevOps整合平台)](https://www.104.com.tw/job/7asvo?jobsource=jolist_a_relevance)              | 6/17          |
+|  9 | [永昕生物醫藥股份有限公司](https://www.104.com.tw/company/5xfw7xk?jobsource=2018indexpoc)        | [細胞產程開發研究員(台北)](https://www.104.com.tw/job/6ujnv?jobsource=2018indexpoc)                                | 6/18          |
+| 10 | [禾新數位有限公司](https://www.104.com.tw/company/1a2x6bjs3i?jobsource=2018indexpoc)         | [[ E-C03 ] Full Stack Engineer（線上面試+因應疫情居家上班）](https://www.104.com.tw/job/76q8f?jobsource=2018indexpoc) | 6/19          |
+| 11 | [紅番茄愛娛樂股份有限公司](https://www.104.com.tw/company/1a2x6bkx4r?jobsource=2018indexpoc)     | [後端工程師 Back-End Developer](https://www.104.com.tw/job/71ahq?jobsource=2018indexpoc)                     | 6/19          |
+| 12 | [英商引達取有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bkz0n?jobsource=2018indexpoc)   | [【台北】Data Engineer](https://www.104.com.tw/job/6pki0?jobsource=2018indexpoc)                            | 6/18          |
+| 13 | [英商引達取有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bkz0n?jobsource=2018indexpoc)   | [【台北】前端/全端工程師](https://www.104.com.tw/job/6pki1?jobsource=2018indexpoc)                                 | 6/18          |
+| 14 | [雄獅資訊科技股份有限公司](https://www.104.com.tw/company/13kq7dpk?jobsource=2018indexpoc)       | [python工程師](https://www.104.com.tw/job/71rxc?jobsource=2018indexpoc)                                    | 6/18          |
+| 15 | [霖園關係企業_神坊資訊股份有限公司](https://www.104.com.tw/company/wdapdfc?jobsource=2018indexpoc)   | [新創電商技術主管 EC Tech Team leader](https://www.104.com.tw/job/7aelb?jobsource=2018indexpoc)                 | 6/18          |
+| 16 | [霖園關係企業_神坊資訊股份有限公司](https://www.104.com.tw/company/wdapdfc?jobsource=2018indexpoc)   | [新創電商Backend Engineer (Python)](https://www.104.com.tw/job/7aenr?jobsource=2018indexpoc)                | 6/18          |
+| 17 | [霖園關係企業_神坊資訊股份有限公司](https://www.104.com.tw/company/wdapdfc?jobsource=2018indexpoc)   | [新創電商Frontend Engineer](https://www.104.com.tw/job/7aen9?jobsource=2018indexpoc)                        | 6/18          |
 
 ### Platform - 1111
 
