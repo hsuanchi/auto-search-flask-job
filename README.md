@@ -10,7 +10,13 @@
 
 |    | company                                                                              | job_title                                                                                  | update_time   |
 |---:|:-------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:--------------|
-|  1 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_b_relevance) | [Python後端開發工程師(DevOps整合平台)](https://www.104.com.tw/job/7asvo?jobsource=jolist_b_relevance) | 6/17          |
+|  1 | [同步科技股份有限公司](https://www.104.com.tw/company/1a2x6ble88?jobsource=jolist_c_relevance) | [後端工程師](https://www.104.com.tw/job/76q8x?jobsource=jolist_c_relevance)                     | 6/17          |
+|  2 | [展市華科技有限公司](https://www.104.com.tw/company/1a2x6blbgu?jobsource=jolist_c_relevance)  | [系統工程師](https://www.104.com.tw/job/71erc?jobsource=jolist_c_relevance)                     | 6/22          |
+|  3 | [展市華科技有限公司](https://www.104.com.tw/company/1a2x6blbgu?jobsource=jolist_c_relevance)  | [後端網頁工程師](https://www.104.com.tw/job/71amu?jobsource=jolist_c_relevance)                   | 6/22          |
+|  4 | [德義資訊股份有限公司](https://www.104.com.tw/company/oe84aqo?jobsource=jolist_c_relevance)    | [Backend 系統開發工程師](https://www.104.com.tw/job/7awmz?jobsource=jolist_c_relevance)           | 6/22          |
+|  5 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_c_relevance) | [Python後端開發工程師(DevOps整合平台)](https://www.104.com.tw/job/7asvo?jobsource=jolist_c_relevance) | 6/17          |
+|  6 | [萊鎂醫療器材股份有限公司](https://www.104.com.tw/company/bkgh1dc?jobsource=jolist_c_relevance)  | [雲端應用工程師](https://www.104.com.tw/job/791cq?jobsource=jolist_c_relevance)                   | 6/15          |
+|  7 | [長佳智能股份有限公司](https://www.104.com.tw/company/1a2x6bkoxb?jobsource=jolist_c_relevance) | [後端工程師](https://www.104.com.tw/job/6qa54?jobsource=jolist_c_relevance)                     | 6/22          |
 
 ### Platform - 1111
 
