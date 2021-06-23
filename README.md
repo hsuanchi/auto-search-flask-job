@@ -8,15 +8,10 @@
 ### Platform - 104
 
 
-|    | company                                                                              | job_title                                                                                  | update_time   |
-|---:|:-------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:--------------|
-|  1 | [同步科技股份有限公司](https://www.104.com.tw/company/1a2x6ble88?jobsource=jolist_c_relevance) | [後端工程師](https://www.104.com.tw/job/76q8x?jobsource=jolist_c_relevance)                     | 6/17          |
-|  2 | [展市華科技有限公司](https://www.104.com.tw/company/1a2x6blbgu?jobsource=jolist_c_relevance)  | [系統工程師](https://www.104.com.tw/job/71erc?jobsource=jolist_c_relevance)                     | 6/22          |
-|  3 | [展市華科技有限公司](https://www.104.com.tw/company/1a2x6blbgu?jobsource=jolist_c_relevance)  | [後端網頁工程師](https://www.104.com.tw/job/71amu?jobsource=jolist_c_relevance)                   | 6/22          |
-|  4 | [德義資訊股份有限公司](https://www.104.com.tw/company/oe84aqo?jobsource=jolist_c_relevance)    | [Backend 系統開發工程師](https://www.104.com.tw/job/7awmz?jobsource=jolist_c_relevance)           | 6/22          |
-|  5 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_c_relevance) | [Python後端開發工程師(DevOps整合平台)](https://www.104.com.tw/job/7asvo?jobsource=jolist_c_relevance) | 6/17          |
-|  6 | [萊鎂醫療器材股份有限公司](https://www.104.com.tw/company/bkgh1dc?jobsource=jolist_c_relevance)  | [雲端應用工程師](https://www.104.com.tw/job/791cq?jobsource=jolist_c_relevance)                   | 6/15          |
-|  7 | [長佳智能股份有限公司](https://www.104.com.tw/company/1a2x6bkoxb?jobsource=jolist_c_relevance) | [後端工程師](https://www.104.com.tw/job/6qa54?jobsource=jolist_c_relevance)                     | 6/22          |
+|    | company                                                                                                                  | job_title                                                                                                                         | update_time   |
+|---:|:-------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|:--------------|
+|  1 | [台灣美光(台灣美光晶圓科技股份有限公司/台灣美光記憶體股份有限公司/美商美光亞太科技股份有限公司台灣分公司)](https://www.104.com.tw/company/10ww9gpk?jobsource=2018indexpoc) | [【2021應屆畢業生報名專區】Data Engineer, Smart MFG &amp; AI (Taichung or Taoyuan)](https://www.104.com.tw/job/7ag8f?jobsource=2018indexpoc) | 6/23          |
+|  2 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=2018indexpoc)                                           | [Python後端開發工程師(DevOps整合平台)](https://www.104.com.tw/job/7asvo?jobsource=2018indexpoc)                                              | 6/17          |
 
 ### Platform - 1111
 
@@ -25,7 +20,7 @@
 |---:|:-----------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|:--------------|
 |  1 | [(派遣)新加坡商立可人事顧問有限公司(Recruit Express)](https://www.1111.com.tw/corp/9992537/) | [AL-Python Engineer，外商網路公司，年薪800K~1.2M](https://www.1111.com.tw/job/91212698/)                            | 2021-05-14    |
 |  2 | [(獵頭)1111獵才顧問中心](https://www.1111.com.tw/corp/69647966/)                     | [直播平台_Senior Backend Developer(3002871)](https://www.1111.com.tw/job/85960420/)                           | 2020-05-15    |
-|  3 | [億力資訊股份有限公司](https://www.1111.com.tw/corp/54937860/)                         | [python工程師](https://www.1111.com.tw/job/97374762/)                                                        | 2021-06-18    |
+|  3 | [億力資訊股份有限公司](https://www.1111.com.tw/corp/54937860/)                         | [python工程師](https://www.1111.com.tw/job/97374762/)                                                        | 2021-06-23    |
 |  4 | [台灣美光晶圓科技股份有限公司](https://www.1111.com.tw/corp/9622349/)                      | [【2021畢業生報名專區】Data Engineer, Smart MFG & AI (Taichung or Taoyuan)](https://www.1111.com.tw/job/97430572/) | 2021-06-17    |
 |  5 | [台灣美光晶圓科技股份有限公司](https://www.1111.com.tw/corp/9622349/)                      | [【桃園/台中廠擴大招募】SR Data Engineer, Smart MFG & AI](https://www.1111.com.tw/job/97430508/)                     | 2021-06-17    |
 |  6 | [長青資訊股份有限公司](https://www.1111.com.tw/corp/71694811/)                         | [後端工程師](https://www.1111.com.tw/job/85012186/)                                                            | 2021-06-21    |
