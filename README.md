@@ -8,12 +8,21 @@
 ### Platform - 104
 
 
-|    | company                                                                              | job_title                                                                                                 | update_time   |
-|---:|:-------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|:--------------|
-|  1 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_c_relevance) | [Python後端開發工程師(DevOps整合平台)](https://www.104.com.tw/job/7asvo?jobsource=jolist_c_relevance)                | 6/24          |
-|  2 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance)    | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_c_relevance)                  | 6/28          |
-|  3 | [美商_睿科網路科技有限公司](https://www.104.com.tw/company/bjr7240?jobsource=2018indexpoc)       | [[新鮮人熱門職缺] Full-Stack Web Application Developer](https://www.104.com.tw/job/7af38?jobsource=2018indexpoc) | 6/30          |
-|  4 | [萊鎂醫療器材股份有限公司](https://www.104.com.tw/company/bkgh1dc?jobsource=jolist_c_relevance)  | [雲端應用工程師](https://www.104.com.tw/job/791cq?jobsource=jolist_c_relevance)                                  | 6/30          |
+|    | company                                                                              | job_title                                                                                               | update_time   |
+|---:|:-------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:--------------|
+|  1 | [伊諾科技有限公司](https://www.104.com.tw/company/1a2x6bkxph?jobsource=2018indexpoc)         | [(真摯徵求) Python後端工程師](https://www.104.com.tw/job/70asp?jobsource=2018indexpoc)                           | 7/01          |
+|  2 | [大數據股份有限公司](https://www.104.com.tw/company/1a2x6bjjhc?jobsource=2018indexpoc)        | [分析研發工程師: AI, Deep Learning, Machine Learning](https://www.104.com.tw/job/54ffa?jobsource=2018indexpoc) | 7/01          |
+|  3 | [好好證券股份有限公司](https://www.104.com.tw/company/1a2x6bjpjb?jobsource=2018indexpoc)       | [Backend Engineer(需熟Python、RESTful API )](https://www.104.com.tw/job/5572i?jobsource=2018indexpoc)      | 7/01          |
+|  4 | [富萱科技股份有限公司](https://www.104.com.tw/company/1a2x6bkf9i?jobsource=jolist_a_relevance) | [Back End 研發工程師](https://www.104.com.tw/job/7ambq?jobsource=jolist_a_relevance)                         | 6/23          |
+|  5 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=2018indexpoc)       | [Python後端開發工程師(DevOps整合平台)](https://www.104.com.tw/job/7asvo?jobsource=2018indexpoc)                    | 7/01          |
+|  6 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_a_relevance) | [Python後端開發工程師(DevOps整合平台)](https://www.104.com.tw/job/7asvo?jobsource=jolist_a_relevance)              | 7/01          |
+|  7 | [米約科技有限公司](https://www.104.com.tw/company/1a2x6bl97m?jobsource=2018indexpoc)         | [Python工程師](https://www.104.com.tw/job/6zey2?jobsource=2018indexpoc)                                    | 7/01          |
+|  8 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance)    | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_a_relevance)                | 6/28          |
+|  9 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance)    | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_a_relevance)                | 6/28          |
+| 10 | [艾酷互動股份有限公司](https://www.104.com.tw/company/1a2x6bkq17?jobsource=2018indexpoc)       | [數據⼯程師](https://www.104.com.tw/job/7275w?jobsource=2018indexpoc)                                        | 7/01          |
+| 11 | [華翰物產實業股份有限公司](https://www.104.com.tw/company/10xb8hsw?jobsource=2018indexpoc)       | [資深資料科學家(Senior Data Scientist)](https://www.104.com.tw/job/72vx2?jobsource=2018indexpoc)               | 7/01          |
+| 12 | [萊鎂醫療器材股份有限公司](https://www.104.com.tw/company/bkgh1dc?jobsource=jolist_a_relevance)  | [雲端應用工程師](https://www.104.com.tw/job/791cq?jobsource=jolist_a_relevance)                                | 6/30          |
+| 13 | [長佳智能股份有限公司](https://www.104.com.tw/company/1a2x6bkoxb?jobsource=jolist_a_relevance) | [後端工程師](https://www.104.com.tw/job/6qa54?jobsource=jolist_a_relevance)                                  | 6/30          |
 
 ### Platform - 1111
 
@@ -21,7 +30,7 @@
 |    | company                                              | job_title                                          | update_time   |
 |---:|:-----------------------------------------------------|:---------------------------------------------------|:--------------|
 |  1 | [億力資訊股份有限公司](https://www.1111.com.tw/corp/54937860/) | [python工程師](https://www.1111.com.tw/job/97374762/) | 2021-06-28    |
-|  2 | [長青資訊股份有限公司](https://www.1111.com.tw/corp/71694811/) | [後端工程師](https://www.1111.com.tw/job/85012186/)     | 2021-06-26    |
+|  2 | [長青資訊股份有限公司](https://www.1111.com.tw/corp/71694811/) | [後端工程師](https://www.1111.com.tw/job/85012186/)     | 2021-07-01    |
 
 
 
