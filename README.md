@@ -8,10 +8,9 @@
 ### Platform - 104
 
 
-|    | company                                                                                       | job_title                                                                  | update_time   |
-|---:|:----------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:--------------|
-|  1 | [展市華科技有限公司](https://www.104.com.tw/company/1a2x6blbgu?jobsource=jolist_d_relevance)           | [後端網頁工程師](https://www.104.com.tw/job/71amu?jobsource=jolist_d_relevance)   | 7/14          |
-|  2 | [新加坡商齊舵管理顧問有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bldr7?jobsource=jolist_d_relevance) | [影像處理軟體工程師](https://www.104.com.tw/job/77vw9?jobsource=jolist_d_relevance) | 4/30          |
+|    | company                                                                      | job_title                                                                                               | update_time   |
+|---:|:-----------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:--------------|
+|  1 | [禾新數位有限公司](https://www.104.com.tw/company/1a2x6bjs3i?jobsource=2018indexpoc) | [[ E-C03 ] Full Stack Engineer（線上面試+因應疫情居家上班）](https://www.104.com.tw/job/76q8f?jobsource=2018indexpoc) | 7/17          |
 
 ### Platform - 1111
 
