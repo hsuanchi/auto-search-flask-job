@@ -8,12 +8,14 @@
 ### Platform - 104
 
 
-|    | company                                                                          | job_title                                                                                 | update_time   |
-|---:|:---------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:--------------|
-|  1 | [博思資訊管理顧問有限公司](https://www.104.com.tw/company/1a2x6blhw5?jobsource=2018indexpoc) | [Python工程師(可遠端工作)](https://www.104.com.tw/job/78f5b?jobsource=2018indexpoc)               | 7/19          |
-|  2 | [宏佳騰動力科技股份有限公司](https://www.104.com.tw/company/111bwt14?jobsource=2018indexpoc)  | [Python全端工程師](https://www.104.com.tw/job/6s9aa?jobsource=2018indexpoc)                    | 7/19          |
-|  3 | [瑪樂愛迪科技股份有限公司](https://www.104.com.tw/company/1a2x6bld1f?jobsource=2018indexpoc) | [Data Engineer / Python（Remote）](https://www.104.com.tw/job/77ymq?jobsource=2018indexpoc) | 7/19          |
-|  4 | [艾斯移動股份有限公司](https://www.104.com.tw/company/cv8shww?jobsource=2018indexpoc)      | [自然語言處理工程師 (NLP Engineer)](https://www.104.com.tw/job/6nmld?jobsource=2018indexpoc)       | 7/19          |
+|    | company                                                                                                                  | job_title                                                                                                                         | update_time   |
+|---:|:-------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|:--------------|
+|  1 | [台灣美光(台灣美光晶圓科技股份有限公司/台灣美光記憶體股份有限公司/美商美光亞太科技股份有限公司台灣分公司)](https://www.104.com.tw/company/10ww9gpk?jobsource=2018indexpoc) | [【2021應屆畢業生報名專區】Data Engineer, Smart MFG &amp; AI (Taichung or Taoyuan)](https://www.104.com.tw/job/7ag8f?jobsource=2018indexpoc) | 7/20          |
+|  2 | [展市華科技有限公司](https://www.104.com.tw/company/1a2x6blbgu?jobsource=jolist_d_relevance)                                      | [後端網頁工程師](https://www.104.com.tw/job/71amu?jobsource=jolist_d_relevance)                                                          | 7/14          |
+|  3 | [展市華科技有限公司](https://www.104.com.tw/company/1a2x6blbgu?jobsource=jolist_d_relevance)                                      | [網頁開發工程師](https://www.104.com.tw/job/78do7?jobsource=jolist_d_relevance)                                                          | 7/14          |
+|  4 | [新加坡商齊舵管理顧問有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bldr7?jobsource=jolist_d_relevance)                            | [影像處理軟體工程師](https://www.104.com.tw/job/77vw9?jobsource=jolist_d_relevance)                                                        | 4/30          |
+|  5 | [英屬開曼群島商萬里雲互聯股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bk5cu?jobsource=2018indexpoc)                              | [Machine Learning Engineer 機器學習工程師 ](https://www.104.com.tw/job/6c61u?jobsource=2018indexpoc)                                     | 7/20          |
+|  6 | [英屬開曼群島商萬里雲互聯股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bk5cu?jobsource=2018indexpoc)                              | [Backend Engineer 後端工程師](https://www.104.com.tw/job/6xipk?jobsource=2018indexpoc)                                                 | 7/20          |
 
 ### Platform - 1111
 
