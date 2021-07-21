@@ -8,12 +8,14 @@
 ### Platform - 104
 
 
-|    | company                                                                                                                  | job_title                                                                                                                         | update_time   |
-|---:|:-------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|:--------------|
-|  1 | [台灣美光(台灣美光晶圓科技股份有限公司/台灣美光記憶體股份有限公司/美商美光亞太科技股份有限公司台灣分公司)](https://www.104.com.tw/company/10ww9gpk?jobsource=2018indexpoc) | [【2021應屆畢業生報名專區】Data Engineer, Smart MFG &amp; AI (Taichung or Taoyuan)](https://www.104.com.tw/job/7ag8f?jobsource=2018indexpoc) | 7/20          |
-|  2 | [展市華科技有限公司](https://www.104.com.tw/company/1a2x6blbgu?jobsource=jolist_c_relevance)                                      | [後端網頁工程師](https://www.104.com.tw/job/71amu?jobsource=jolist_c_relevance)                                                          | 7/14          |
-|  3 | [英屬開曼群島商萬里雲互聯股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bk5cu?jobsource=2018indexpoc)                              | [Machine Learning Engineer 機器學習工程師 ](https://www.104.com.tw/job/6c61u?jobsource=2018indexpoc)                                     | 7/20          |
-|  4 | [英屬開曼群島商萬里雲互聯股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bk5cu?jobsource=2018indexpoc)                              | [Backend Engineer 後端工程師](https://www.104.com.tw/job/6xipk?jobsource=2018indexpoc)                                                 | 7/20          |
+|    | company                                                                                       | job_title                                                                                         | update_time   |
+|---:|:----------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|:--------------|
+|  1 | [展市華科技有限公司](https://www.104.com.tw/company/1a2x6blbgu?jobsource=jolist_a_relevance)           | [後端網頁工程師](https://www.104.com.tw/job/71amu?jobsource=jolist_a_relevance)                          | 7/14          |
+|  2 | [新加坡商齊舵管理顧問有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bldr7?jobsource=jolist_a_relevance) | [影像處理軟體工程師](https://www.104.com.tw/job/77vw9?jobsource=jolist_a_relevance)                        | 4/30          |
+|  3 | [永昕生物醫藥股份有限公司](https://www.104.com.tw/company/5xfw7xk?jobsource=2018indexpoc)                 | [細胞產程開發研究員(台北)](https://www.104.com.tw/job/6ujnv?jobsource=2018indexpoc)                          | 7/21          |
+|  4 | [皮智股份有限公司](https://www.104.com.tw/company/1a2x6bkeyt?jobsource=2018indexpoc)                  | [後端程式設計師 (Backend Engineer)](https://www.104.com.tw/job/62qs2?jobsource=2018indexpoc)             | 7/21          |
+|  5 | [禾向數位科技有限公司](https://www.104.com.tw/company/1a2x6bl8h8?jobsource=2018indexpoc)                | [Python Backend Engineer](https://www.104.com.tw/job/71i7c?jobsource=2018indexpoc)                | 7/21          |
+|  6 | [蓋特資訊系統股份有限公司](https://www.104.com.tw/company/1a2x6biptb?jobsource=jolist_a_relevance)        | [Senior Machine Learning Engineer](https://www.104.com.tw/job/6e6r8?jobsource=jolist_a_relevance) | 7/16          |
 
 ### Platform - 1111
 
@@ -21,7 +23,7 @@
 |    | company                                              | job_title                                          | update_time   |
 |---:|:-----------------------------------------------------|:---------------------------------------------------|:--------------|
 |  1 | [億力資訊股份有限公司](https://www.1111.com.tw/corp/54937860/) | [python工程師](https://www.1111.com.tw/job/97374762/) | 2021-07-18    |
-|  2 | [長青資訊股份有限公司](https://www.1111.com.tw/corp/71694811/) | [後端工程師](https://www.1111.com.tw/job/85012186/)     | 2021-07-16    |
+|  2 | [長青資訊股份有限公司](https://www.1111.com.tw/corp/71694811/) | [後端工程師](https://www.1111.com.tw/job/85012186/)     | 2021-07-21    |
 
 
 
