@@ -8,11 +8,11 @@
 ### Platform - 104
 
 
-|    | company                                                                        | job_title                                                                             | update_time   |
-|---:|:-------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------|:--------------|
-|  1 | [永昕生物醫藥股份有限公司](https://www.104.com.tw/company/5xfw7xk?jobsource=2018indexpoc)  | [細胞產程開發研究員(台北)](https://www.104.com.tw/job/6ujnv?jobsource=2018indexpoc)              | 7/21          |
-|  2 | [皮智股份有限公司](https://www.104.com.tw/company/1a2x6bkeyt?jobsource=2018indexpoc)   | [後端程式設計師 (Backend Engineer)](https://www.104.com.tw/job/62qs2?jobsource=2018indexpoc) | 7/21          |
-|  3 | [禾向數位科技有限公司](https://www.104.com.tw/company/1a2x6bl8h8?jobsource=2018indexpoc) | [Python Backend Engineer](https://www.104.com.tw/job/71i7c?jobsource=2018indexpoc)    | 7/21          |
+|    | company                                                                                     | job_title                                                                                        | update_time   |
+|---:|:--------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|:--------------|
+|  1 | [米約科技有限公司](https://www.104.com.tw/company/1a2x6bl97m?jobsource=2018indexpoc)                | [Python工程師](https://www.104.com.tw/job/6zey2?jobsource=2018indexpoc)                             | 7/22          |
+|  2 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance)           | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_b_relevance)         | 7/16          |
+|  3 | [英屬開曼群島商萬里雲互聯股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bk5cu?jobsource=2018indexpoc) | [Solution Architect (Presales) 解決方案架構師](https://www.104.com.tw/job/6c62k?jobsource=2018indexpoc) | 7/22          |
 
 ### Platform - 1111
 
