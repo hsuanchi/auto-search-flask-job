@@ -8,10 +8,16 @@
 ### Platform - 104
 
 
-|    | company                                                                           | job_title                                                                                | update_time   |
-|---:|:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:--------------|
-|  1 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance) | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_c_relevance) | 7/16          |
-|  2 | [艾斯移動股份有限公司](https://www.104.com.tw/company/cv8shww?jobsource=2018indexpoc)       | [自然語言處理工程師 (NLP Engineer)](https://www.104.com.tw/job/6nmld?jobsource=2018indexpoc)      | 7/26          |
+|    | company                                                                                          | job_title                                                                                                                                             | update_time   |
+|---:|:-------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|
+|  1 | [城科國際_CYBILL TEK SOFTWARE INC](https://www.104.com.tw/company/1a2x6bl0gd?jobsource=2018indexpoc) | [台灣-Python後端工程師](https://www.104.com.tw/job/7a4xc?jobsource=2018indexpoc)                                                                             | 7/27          |
+|  2 | [智理管理顧問股份有限公司](https://www.104.com.tw/company/1a2x6bj38r?jobsource=2018indexpoc)                 | [★全球前三大供應商★台灣上市母公司成立AI新創單位★前端工程師 Frontend Engineer (React)★後端工程師 Backend Engineer (Python)★](https://www.104.com.tw/job/7bofr?jobsource=2018indexpoc) | 7/27          |
+|  3 | [童綜合醫療社團法人童綜合醫院](https://www.104.com.tw/company/kw8xsls?jobsource=2018indexpoc)                  | [資訊部Python 工程師](https://www.104.com.tw/job/6upji?jobsource=2018indexpoc)                                                                              | 7/27          |
+|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance)                | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_c_relevance)                                                              | 7/27          |
+|  5 | [英屬開曼群島商萬里雲互聯股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bk5cu?jobsource=2018indexpoc)      | [Backend Engineer 後端工程師](https://www.104.com.tw/job/6xipk?jobsource=2018indexpoc)                                                                     | 7/27          |
+|  6 | [英屬開曼群島商萬里雲互聯股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bk5cu?jobsource=2018indexpoc)      | [Machine Learning Engineer 機器學習工程師 ](https://www.104.com.tw/job/6c61u?jobsource=2018indexpoc)                                                         | 7/27          |
+|  7 | [薩摩亞商連影科技有限公司台灣分公司](https://www.104.com.tw/company/1a2x6blcyw?jobsource=2018indexpoc)            | [(Sr./Jr.) Backend Developer 後端工程師](https://www.104.com.tw/job/72kyd?jobsource=2018indexpoc)                                                          | 7/27          |
+|  8 | [龍騰文化事業股份有限公司](https://www.104.com.tw/company/au6siqw?jobsource=2018indexpoc)                    | [後端工程師(資深工程師)](https://www.104.com.tw/job/7bmv8?jobsource=2018indexpoc)                                                                               | 7/27          |
 
 ### Platform - 1111
 
