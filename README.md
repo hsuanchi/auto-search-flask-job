@@ -10,12 +10,8 @@
 
 |    | company                                                                                | job_title                                                                                         | update_time   |
 |---:|:---------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|:--------------|
-|  1 | [展市華科技有限公司](https://www.104.com.tw/company/1a2x6blbgu?jobsource=2018indexpoc)          | [後端網頁工程師](https://www.104.com.tw/job/71amu?jobsource=2018indexpoc)                                | 8/05          |
-|  2 | [展市華科技有限公司](https://www.104.com.tw/company/1a2x6blbgu?jobsource=2018indexpoc)          | [網頁開發工程師](https://www.104.com.tw/job/78do7?jobsource=2018indexpoc)                                | 8/05          |
-|  3 | [米約科技有限公司](https://www.104.com.tw/company/1a2x6bl97m?jobsource=2018indexpoc)           | [Python工程師](https://www.104.com.tw/job/6zey2?jobsource=2018indexpoc)                              | 8/05          |
-|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance)      | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_a_relevance)          | 8/03          |
-|  5 | [蓋特資訊系統股份有限公司](https://www.104.com.tw/company/1a2x6biptb?jobsource=jolist_a_relevance) | [Senior Machine Learning Engineer](https://www.104.com.tw/job/6e6r8?jobsource=jolist_a_relevance) | 7/28          |
-|  6 | [麟數據科技股份有限公司](https://www.104.com.tw/company/1a2x6bjpwh?jobsource=2018indexpoc)        | [Python程式設計師](https://www.104.com.tw/job/6uj6n?jobsource=2018indexpoc)                            | 8/05          |
+|  1 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance)      | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_b_relevance)          | 8/03          |
+|  2 | [蓋特資訊系統股份有限公司](https://www.104.com.tw/company/1a2x6biptb?jobsource=jolist_b_relevance) | [Senior Machine Learning Engineer](https://www.104.com.tw/job/6e6r8?jobsource=jolist_b_relevance) | 7/28          |
 
 ### Platform - 1111
 
