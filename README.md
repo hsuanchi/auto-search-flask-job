@@ -8,11 +8,12 @@
 ### Platform - 104
 
 
-|    | company                                                                           | job_title                                                                                               | update_time   |
-|---:|:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:--------------|
-|  1 | [大數據股份有限公司](https://www.104.com.tw/company/1a2x6bjjhc?jobsource=2018indexpoc)     | [分析研發工程師: AI, Deep Learning, Machine Learning](https://www.104.com.tw/job/54ffa?jobsource=2018indexpoc) | 8/11          |
-|  2 | [禾向數位科技有限公司](https://www.104.com.tw/company/1a2x6bl8h8?jobsource=2018indexpoc)    | [Python Backend Engineer](https://www.104.com.tw/job/71i7c?jobsource=2018indexpoc)                      | 8/11          |
-|  3 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance) | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_c_relevance)                | 8/11          |
+|    | company                                                                                | job_title                                                                                               | update_time   |
+|---:|:---------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:--------------|
+|  1 | [大數據股份有限公司](https://www.104.com.tw/company/1a2x6bjjhc?jobsource=2018indexpoc)          | [分析研發工程師: AI, Deep Learning, Machine Learning](https://www.104.com.tw/job/54ffa?jobsource=2018indexpoc) | 8/11          |
+|  2 | [禾向數位科技有限公司](https://www.104.com.tw/company/1a2x6bl8h8?jobsource=2018indexpoc)         | [Python Backend Engineer](https://www.104.com.tw/job/71i7c?jobsource=2018indexpoc)                      | 8/11          |
+|  3 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance)      | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_b_relevance)                | 8/11          |
+|  4 | [蓋特資訊系統股份有限公司](https://www.104.com.tw/company/1a2x6biptb?jobsource=jolist_b_relevance) | [Senior Machine Learning Engineer](https://www.104.com.tw/job/6e6r8?jobsource=jolist_b_relevance)       | 7/28          |
 
 ### Platform - 1111
 
