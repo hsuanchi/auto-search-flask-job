@@ -8,9 +8,15 @@
 ### Platform - 104
 
 
-|    | company                                                                      | job_title                                                            | update_time   |
-|---:|:-----------------------------------------------------------------------------|:---------------------------------------------------------------------|:--------------|
-|  1 | [米約科技有限公司](https://www.104.com.tw/company/1a2x6bl97m?jobsource=2018indexpoc) | [Python工程師](https://www.104.com.tw/job/6zey2?jobsource=2018indexpoc) | 8/12          |
+|    | company                                                                                                                  | job_title                                                                                                                         | update_time   |
+|---:|:-------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|:--------------|
+|  1 | [台灣美光(台灣美光晶圓科技股份有限公司/台灣美光記憶體股份有限公司/美商美光亞太科技股份有限公司台灣分公司)](https://www.104.com.tw/company/10ww9gpk?jobsource=2018indexpoc) | [【2021應屆畢業生報名專區】Data Engineer, Smart MFG &amp; AI (Taichung or Taoyuan)](https://www.104.com.tw/job/7ag8f?jobsource=2018indexpoc) | 8/13          |
+|  2 | [智理管理顧問股份有限公司](https://www.104.com.tw/company/1a2x6bj38r?jobsource=2018indexpoc)                                         | [★全球前三大供應商★台灣上市母公司成立AI新創單位★後端工程師 Backend Engineer (Python)★](https://www.104.com.tw/job/7bofr?jobsource=2018indexpoc)             | 8/13          |
+|  3 | [澤喆數位科技股份有限公司](https://www.104.com.tw/company/1a2x6bl2y0?jobsource=2018indexpoc)                                         | [後端工程師(Back-end Engineer )](https://www.104.com.tw/job/6uvmx?jobsource=2018indexpoc)                                              | 8/13          |
+|  4 | [紅番茄愛娛樂股份有限公司](https://www.104.com.tw/company/1a2x6bkx4r?jobsource=2018indexpoc)                                         | [後端工程師 Back-End Developer](https://www.104.com.tw/job/71ahq?jobsource=2018indexpoc)                                               | 8/13          |
+|  5 | [美商美創資通股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bjdsb?jobsource=2018indexpoc)                                    | [資深Web後端工程師](https://www.104.com.tw/job/6y6f0?jobsource=2018indexpoc)                                                             | 8/13          |
+|  6 | [興創知能股份有限公司](https://www.104.com.tw/company/1a2x6bkhkb?jobsource=2018indexpoc)                                           | [全端工程師](https://www.104.com.tw/job/6gyzz?jobsource=2018indexpoc)                                                                  | 8/13          |
+|  7 | [蓋特資訊系統股份有限公司](https://www.104.com.tw/company/1a2x6biptb?jobsource=2018indexpoc)                                         | [Senior Machine Learning Engineer](https://www.104.com.tw/job/6e6r8?jobsource=2018indexpoc)                                       | 8/13          |
 
 ### Platform - 1111
 
