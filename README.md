@@ -15,10 +15,11 @@
 |  3 | [小柿智檢科技股份有限公司](https://www.104.com.tw/company/1a2x6bl77l?jobsource=2018indexpoc)                                         | [全端工程師 Full-Stack Engineer](https://www.104.com.tw/job/71bmz?jobsource=2018indexpoc)                                              | 8/14          |
 |  4 | [智理管理顧問股份有限公司](https://www.104.com.tw/company/1a2x6bj38r?jobsource=2018indexpoc)                                         | [★全球前三大供應商★台灣上市母公司成立AI新創單位★後端工程師 Backend Engineer (Python)★](https://www.104.com.tw/job/7bofr?jobsource=2018indexpoc)             | 8/13          |
 |  5 | [澤喆數位科技股份有限公司](https://www.104.com.tw/company/1a2x6bl2y0?jobsource=2018indexpoc)                                         | [後端工程師(Back-end Engineer )](https://www.104.com.tw/job/6uvmx?jobsource=2018indexpoc)                                              | 8/13          |
-|  6 | [紅番茄愛娛樂股份有限公司](https://www.104.com.tw/company/1a2x6bkx4r?jobsource=2018indexpoc)                                         | [後端工程師 Back-End Developer](https://www.104.com.tw/job/71ahq?jobsource=2018indexpoc)                                               | 8/13          |
+|  6 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance)                                        | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_a_relevance)                                          | 8/11          |
 |  7 | [美商美創資通股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bjdsb?jobsource=2018indexpoc)                                    | [資深Web後端工程師](https://www.104.com.tw/job/6y6f0?jobsource=2018indexpoc)                                                             | 8/13          |
 |  8 | [興創知能股份有限公司](https://www.104.com.tw/company/1a2x6bkhkb?jobsource=2018indexpoc)                                           | [全端工程師](https://www.104.com.tw/job/6gyzz?jobsource=2018indexpoc)                                                                  | 8/13          |
 |  9 | [蓋特資訊系統股份有限公司](https://www.104.com.tw/company/1a2x6biptb?jobsource=2018indexpoc)                                         | [Senior Machine Learning Engineer](https://www.104.com.tw/job/6e6r8?jobsource=2018indexpoc)                                       | 8/13          |
+| 10 | [貸先生資訊平台有限公司](https://www.104.com.tw/company/1a2x6blnk6?jobsource=2018indexpoc)                                          | [系統部-網站後端API開發工程師 (可遠距工作/每週進公司開會/全職/限台中) [NO.D4]](https://www.104.com.tw/job/7bfnu?jobsource=2018indexpoc)                        | 8/14          |
 
 ### Platform - 1111
 
