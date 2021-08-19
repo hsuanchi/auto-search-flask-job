@@ -8,15 +8,11 @@
 ### Platform - 104
 
 
-|    | company                                                                                     | job_title                                                                                               | update_time   |
-|---:|:--------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:--------------|
-|  1 | [大數據股份有限公司](https://www.104.com.tw/company/1a2x6bjjhc?jobsource=2018indexpoc)               | [分析研發工程師: AI, Deep Learning, Machine Learning](https://www.104.com.tw/job/54ffa?jobsource=2018indexpoc) | 8/18          |
-|  2 | [展市華科技有限公司](https://www.104.com.tw/company/1a2x6blbgu?jobsource=jolist_d_relevance)         | [後端網頁工程師](https://www.104.com.tw/job/71amu?jobsource=jolist_d_relevance)                                | 8/12          |
-|  3 | [新加坡商威兆科技有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bjqez?jobsource=jolist_d_relevance) | [Junior IT Developer (助理 IT 程式設計師)](https://www.104.com.tw/job/7bely?jobsource=jolist_d_relevance)      | 7/15          |
-|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_d_relevance)           | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_d_relevance)                | 8/18          |
-|  5 | [網聯科技股份有限公司](https://www.104.com.tw/company/1a2x6bkpi3?jobsource=jolist_d_relevance)        | [後端工程師](https://www.104.com.tw/job/76n8r?jobsource=jolist_d_relevance)                                  | 8/08          |
-|  6 | [萊泀有限公司](https://www.104.com.tw/company/1a2x6blg3t?jobsource=jolist_d_relevance)            | [Python (Django、Flask)程式設計師](https://www.104.com.tw/job/7cs5e?jobsource=jolist_d_relevance)             | 8/16          |
-|  7 | [雙子星雲端運算股份有限公司](https://www.104.com.tw/company/1a2x6bjeye?jobsource=2018indexpoc)           | [雲端軟體工程師(可視訊面試)](https://www.104.com.tw/job/58it4?jobsource=2018indexpoc)                               | 8/18          |
+|    | company                                                                           | job_title                                                                                                    | update_time   |
+|---:|:----------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|:--------------|
+|  1 | [吉音資訊有限公司](https://www.104.com.tw/company/10uhacsw?jobsource=jolist_c_relevance)  | [高薪徵PHP程式開發人才(專案聘請 2-3年職(視情況再延長 ;Cable或電信業))](https://www.104.com.tw/job/2j2kp?jobsource=jolist_c_relevance) | 8/12          |
+|  2 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance) | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_c_relevance)                     | 8/18          |
+|  3 | [萊泀有限公司](https://www.104.com.tw/company/1a2x6blg3t?jobsource=jolist_c_relevance)  | [Python (Django、Flask)程式設計師](https://www.104.com.tw/job/7cs5e?jobsource=jolist_c_relevance)                  | 8/16          |
 
 ### Platform - 1111
 
