@@ -8,15 +8,14 @@
 ### Platform - 104
 
 
-|    | company                                                                                     | job_title                                                                                   | update_time   |
-|---:|:--------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:--------------|
-|  1 | [小柿智檢科技股份有限公司](https://www.104.com.tw/company/1a2x6bl77l?jobsource=2018indexpoc)            | [後端工程師 Back-End Engineer](https://www.104.com.tw/job/71bmd?jobsource=2018indexpoc)          | 8/28          |
-|  2 | [小柿智檢科技股份有限公司](https://www.104.com.tw/company/1a2x6bl77l?jobsource=2018indexpoc)            | [全端工程師 Full-Stack Engineer](https://www.104.com.tw/job/71bmz?jobsource=2018indexpoc)        | 8/28          |
-|  3 | [爍特股份有限公司](https://www.104.com.tw/company/1a2x6blq2r?jobsource=2018indexpoc)                | [Senior Backend Engineer [Python]](https://www.104.com.tw/job/7d9op?jobsource=2018indexpoc) | 8/28          |
-|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_d_relevance)           | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_d_relevance)    | 8/26          |
-|  5 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_d_relevance)           | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_d_relevance)    | 8/26          |
-|  6 | [美商美創資通股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bjdsb?jobsource=jolist_d_relevance) | [資深Web後端工程師](https://www.104.com.tw/job/6y6f0?jobsource=jolist_d_relevance)                 | 8/24          |
-|  7 | [萊泀有限公司](https://www.104.com.tw/company/1a2x6blg3t?jobsource=jolist_d_relevance)            | [Python (Django、Flask)程式設計師](https://www.104.com.tw/job/7cs5e?jobsource=jolist_d_relevance) | 8/16          |
+|    | company                                                                           | job_title                                                                                   | update_time   |
+|---:|:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:--------------|
+|  1 | [小柿智檢科技股份有限公司](https://www.104.com.tw/company/1a2x6bl77l?jobsource=2018indexpoc)  | [後端工程師 Back-End Engineer](https://www.104.com.tw/job/71bmd?jobsource=2018indexpoc)          | 8/28          |
+|  2 | [小柿智檢科技股份有限公司](https://www.104.com.tw/company/1a2x6bl77l?jobsource=2018indexpoc)  | [全端工程師 Full-Stack Engineer](https://www.104.com.tw/job/71bmz?jobsource=2018indexpoc)        | 8/28          |
+|  3 | [爍特股份有限公司](https://www.104.com.tw/company/1a2x6blq2r?jobsource=2018indexpoc)      | [Senior Backend Engineer [Python]](https://www.104.com.tw/job/7d9op?jobsource=2018indexpoc) | 8/28          |
+|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance) | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_b_relevance)    | 8/26          |
+|  5 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance) | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_b_relevance)    | 8/26          |
+|  6 | [萊泀有限公司](https://www.104.com.tw/company/1a2x6blg3t?jobsource=jolist_b_relevance)  | [Python (Django、Flask)程式設計師](https://www.104.com.tw/job/7cs5e?jobsource=jolist_b_relevance) | 8/16          |
 
 ### Platform - 1111
 
