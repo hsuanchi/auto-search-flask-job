@@ -10,8 +10,12 @@
 
 |    | company                                                                           | job_title                                                                                   | update_time   |
 |---:|:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:--------------|
-|  1 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance) | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_c_relevance)    | 10/06         |
-|  2 | [萊泀有限公司](https://www.104.com.tw/company/1a2x6blg3t?jobsource=jolist_c_relevance)  | [Python (Django、Flask)程式設計師](https://www.104.com.tw/job/7cs5e?jobsource=jolist_c_relevance) | 10/06         |
+|  1 | [普匯金融科技股份有限公司](https://www.104.com.tw/company/1a2x6bkhzg?jobsource=jolist_a_date) | [python工程師](https://www.104.com.tw/job/7ark5?jobsource=jolist_a_date)                       | 10/12         |
+|  2 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance) | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_b_relevance)    | 10/06         |
+|  3 | [翔隆航太有限公司](https://www.104.com.tw/company/1a2x6bli84?jobsource=jolist_a_date)     | [後端工程師](https://www.104.com.tw/job/77kox?jobsource=jolist_a_date)                           | 10/12         |
+|  4 | [艾斯移動股份有限公司](https://www.104.com.tw/company/cv8shww?jobsource=jolist_a_date)      | [Python工程師](https://www.104.com.tw/job/6nml7?jobsource=jolist_a_date)                       | 10/12         |
+|  5 | [華翰物產實業股份有限公司](https://www.104.com.tw/company/10xb8hsw?jobsource=jolist_a_date)   | [資深資料科學家(Senior Data Scientist)](https://www.104.com.tw/job/72vx2?jobsource=jolist_a_date)  | 10/12         |
+|  6 | [萊泀有限公司](https://www.104.com.tw/company/1a2x6blg3t?jobsource=jolist_b_relevance)  | [Python (Django、Flask)程式設計師](https://www.104.com.tw/job/7cs5e?jobsource=jolist_b_relevance) | 10/06         |
 
 ### Platform - 1111
 
