@@ -8,14 +8,14 @@
 ### Platform - 104
 
 
-|    | company                                                                                | job_title                                                                                                | update_time   |
-|---:|:---------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|:--------------|
-|  1 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_a_relevance)   | [Python後端開發工程師 (DevOps整合平台)](https://www.104.com.tw/job/7asvo?jobsource=jolist_a_relevance)              | 10/13         |
-|  2 | [環球睿視股份有限公司](https://www.104.com.tw/company/1a2x6bjtu2?jobsource=jolist_b_date)        | [(全職)AI Chatbot語意機器人/語音機器人系統平台開發建置[視需要使用視訊面談]](https://www.104.com.tw/job/6rddw?jobsource=jolist_b_date) | 10/18         |
-|  3 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance)      | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_a_relevance)                 | 10/13         |
-|  4 | [美商_睿科網路科技有限公司](https://www.104.com.tw/company/bjr7240?jobsource=jolist_b_date)        | [[HOT!] Senior Full-Stack Web Developer 全端工程師](https://www.104.com.tw/job/7ca8w?jobsource=jolist_b_date) | 10/18         |
-|  5 | [蓋特資訊系統股份有限公司](https://www.104.com.tw/company/1a2x6biptb?jobsource=jolist_a_relevance) | [Senior Machine Learning Engineer](https://www.104.com.tw/job/6e6r8?jobsource=jolist_a_relevance)        | 10/17         |
-|  6 | [香港商凱渤維思有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bkgaj?jobsource=jolist_b_date)  | [前端(全棧)開發人員](https://www.104.com.tw/job/6aiim?jobsource=jolist_b_date)                                   | 10/18         |
+|    | company                                                                               | job_title                                                                                                | update_time   |
+|---:|:--------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|:--------------|
+|  1 | [普匯金融科技股份有限公司](https://www.104.com.tw/company/1a2x6bkhzg?jobsource=jolist_d_date)     | [python工程師](https://www.104.com.tw/job/7ark5?jobsource=jolist_d_date)                                    | 10/19         |
+|  2 | [環球睿視股份有限公司](https://www.104.com.tw/company/1a2x6bjtu2?jobsource=jolist_d_date)       | [(全職)AI Chatbot語意機器人/語音機器人系統平台開發建置[視需要使用視訊面談]](https://www.104.com.tw/job/6rddw?jobsource=jolist_d_date) | 10/18         |
+|  3 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance)     | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_c_relevance)                 | 10/13         |
+|  4 | [美商_睿科網路科技有限公司](https://www.104.com.tw/company/bjr7240?jobsource=jolist_d_date)       | [[HOT!] Senior Full-Stack Web Developer 全端工程師](https://www.104.com.tw/job/7ca8w?jobsource=jolist_d_date) | 10/18         |
+|  5 | [雲磐科技有限公司](https://www.104.com.tw/company/1a2x6blkbl?jobsource=jolist_d_date)         | [Python Backend / Automation Engineer](https://www.104.com.tw/job/7eymp?jobsource=jolist_d_date)         | 10/18         |
+|  6 | [香港商凱渤維思有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bkgaj?jobsource=jolist_d_date) | [前端(全棧)開發人員](https://www.104.com.tw/job/6aiim?jobsource=jolist_d_date)                                   | 10/18         |
 
 ### Platform - 1111
 
