@@ -8,12 +8,9 @@
 ### Platform - 104
 
 
-|    | company                                                                            | job_title                                                                                                   | update_time   |
-|---:|:-----------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|:--------------|
-|  1 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_date)       | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_b_date)                         | 10/27         |
-|  2 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance)  | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_c_relevance)                    | 10/27         |
-|  3 | [貸先生資訊平台有限公司](https://www.104.com.tw/company/1a2x6blnk6?jobsource=jolist_b_date)   | [系統部-Python 開發工程師 (可遠距工作/每週進公司開會/全職/限台中) [NO.D5]](https://www.104.com.tw/job/7bfnv?jobsource=jolist_b_date) | 10/28         |
-|  4 | [雙子星雲端運算股份有限公司](https://www.104.com.tw/company/1a2x6bjeye?jobsource=jolist_b_date) | [雲端軟體工程師(可視訊面試)](https://www.104.com.tw/job/58it4?jobsource=jolist_b_date)                                  | 10/27         |
+|    | company                                                                           | job_title                                                                                | update_time   |
+|---:|:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:--------------|
+|  1 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_d_relevance) | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_d_relevance) | 10/27         |
 
 ### Platform - 1111
 
