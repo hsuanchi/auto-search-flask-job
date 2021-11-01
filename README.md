@@ -8,9 +8,10 @@
 ### Platform - 104
 
 
-|    | company                                                                           | job_title                                                                                | update_time   |
-|---:|:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:--------------|
-|  1 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance) | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_b_relevance) | 10/27         |
+|    | company                                                                                            | job_title                                                                                                             | update_time   |
+|---:|:---------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|:--------------|
+|  1 | [宏達電 HTC Corporation_宏達國際電子股份有限公司](https://www.104.com.tw/company/7co2xio?jobsource=jolist_d_date) | [(Vive R&amp;D) Vive - Machine Learning Scientist - J01803](https://www.104.com.tw/job/7er6w?jobsource=jolist_d_date) | 11/01         |
+|  2 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance)                  | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_b_relevance)                              | 10/27         |
 
 ### Platform - 1111
 
