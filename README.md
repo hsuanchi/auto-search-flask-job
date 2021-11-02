@@ -8,12 +8,11 @@
 ### Platform - 104
 
 
-|    | company                                                                                | job_title                                                                                | update_time   |
-|---:|:---------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:--------------|
-|  1 | [展市華科技有限公司](https://www.104.com.tw/company/1a2x6blbgu?jobsource=jolist_c_date)         | [後端網頁工程師](https://www.104.com.tw/job/71amu?jobsource=jolist_c_date)                      | 11/02         |
-|  2 | [德義資訊股份有限公司](https://www.104.com.tw/company/oe84aqo?jobsource=jolist_c_date)           | [Backend 系統開發工程師](https://www.104.com.tw/job/7awmz?jobsource=jolist_c_date)              | 11/02         |
-|  3 | [新加坡商遠豪科技有限公司(籌備處)](https://www.104.com.tw/company/1a2x6blrab?jobsource=jolist_c_date) | [全端工程師](https://www.104.com.tw/job/7e64n?jobsource=jolist_c_date)                        | 11/02         |
-|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance)      | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_a_relevance) | 10/27         |
+|    | company                                                                           | job_title                                                                                | update_time   |
+|---:|:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:--------------|
+|  1 | [漢康生技股份有限公司](https://www.104.com.tw/company/1a2x6blf97?jobsource=jolist_d_date)   | [細胞培養工藝開發研究員/副研究員/助理研究員](https://www.104.com.tw/job/7cccb?jobsource=jolist_d_date)       | 11/02         |
+|  2 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance) | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_b_relevance) | 10/27         |
+|  3 | [雄獅資訊科技股份有限公司](https://www.104.com.tw/company/13kq7dpk?jobsource=jolist_d_date)   | [python工程師](https://www.104.com.tw/job/71rxc?jobsource=jolist_d_date)                    | 11/02         |
 
 ### Platform - 1111
 
