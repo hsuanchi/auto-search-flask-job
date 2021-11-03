@@ -8,18 +8,17 @@
 ### Platform - 104
 
 
-|    | company                                                                                | job_title                                                                                | update_time   |
-|---:|:---------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:--------------|
-|  1 | [德義資訊股份有限公司](https://www.104.com.tw/company/oe84aqo?jobsource=jolist_b_date)           | [Backend 系統開發工程師](https://www.104.com.tw/job/7awmz?jobsource=jolist_b_date)              | 11/02         |
-|  2 | [新加坡商遠豪科技有限公司(籌備處)](https://www.104.com.tw/company/1a2x6blrab?jobsource=jolist_b_date) | [全端工程師](https://www.104.com.tw/job/7e64n?jobsource=jolist_b_date)                        | 11/02         |
-|  3 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance)      | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_a_relevance) | 10/27         |
+|    | company                                                                                           | job_title                                                                                | update_time   |
+|---:|:--------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:--------------|
+|  1 | [Algotech_新加坡商艾高科技股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6blc6n?jobsource=jolist_b_date) | [產品工程師/Python工程師](https://www.104.com.tw/job/7duf1?jobsource=jolist_b_date)              | 11/03         |
+|  2 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance)                 | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_b_relevance) | 10/27         |
 
 ### Platform - 1111
 
 
 |    | company                                              | job_title                                      | update_time   |
 |---:|:-----------------------------------------------------|:-----------------------------------------------|:--------------|
-|  1 | [長青資訊股份有限公司](https://www.1111.com.tw/corp/71694811/) | [後端工程師](https://www.1111.com.tw/job/85012186/) | 2021-10-29    |
+|  1 | [長青資訊股份有限公司](https://www.1111.com.tw/corp/71694811/) | [後端工程師](https://www.1111.com.tw/job/85012186/) | 2021-11-03    |
 
 
 
