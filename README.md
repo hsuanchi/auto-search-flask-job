@@ -8,12 +8,10 @@
 ### Platform - 104
 
 
-|    | company                                                                                           | job_title                                                                                | update_time   |
-|---:|:--------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:--------------|
-|  1 | [Algotech_新加坡商艾高科技股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6blc6n?jobsource=jolist_a_date) | [產品工程師/Python工程師](https://www.104.com.tw/job/7duf1?jobsource=jolist_a_date)              | 11/03         |
-|  2 | [普匯金融科技股份有限公司](https://www.104.com.tw/company/1a2x6bkhzg?jobsource=jolist_a_date)                 | [python工程師](https://www.104.com.tw/job/7ark5?jobsource=jolist_a_date)                    | 11/03         |
-|  3 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance)                 | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_b_relevance) | 10/27         |
-|  4 | [翔隆航太有限公司](https://www.104.com.tw/company/1a2x6bli84?jobsource=jolist_a_date)                     | [後端工程師](https://www.104.com.tw/job/77kox?jobsource=jolist_a_date)                        | 11/03         |
+|    | company                                                                           | job_title                                                                                | update_time   |
+|---:|:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:--------------|
+|  1 | [九七科技股份有限公司](https://www.104.com.tw/company/1a2x6bl9vu?jobsource=jolist_b_date)   | [資料科學家](https://www.104.com.tw/job/7fde6?jobsource=jolist_b_date)                        | 11/04         |
+|  2 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_a_relevance) | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_a_relevance) | 10/27         |
 
 ### Platform - 1111
 
