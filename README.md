@@ -10,13 +10,12 @@
 
 |    | company                                                                                                | job_title                                                                                | update_time   |
 |---:|:-------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:--------------|
-|  1 | [Algotech_新加坡商艾高科技股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6blc6n?jobsource=jolist_a_date)      | [產品工程師/Python工程師](https://www.104.com.tw/job/7duf1?jobsource=jolist_a_date)              | 11/10         |
-|  2 | [Algotech_新加坡商艾高科技股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6blc6n?jobsource=jolist_b_relevance) | [產品工程師/Python工程師](https://www.104.com.tw/job/7duf1?jobsource=jolist_b_relevance)         | 11/10         |
-|  3 | [合翔資訊科技有限公司](https://www.104.com.tw/company/1a2x6blmxr?jobsource=jolist_a_date)                        | [Python Backend 工程師](https://www.104.com.tw/job/7fif4?jobsource=jolist_a_date)           | 11/10         |
-|  4 | [普匯金融科技股份有限公司](https://www.104.com.tw/company/1a2x6bkhzg?jobsource=jolist_a_date)                      | [python工程師](https://www.104.com.tw/job/7ark5?jobsource=jolist_a_date)                    | 11/10         |
-|  5 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance)                      | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_b_relevance) | 11/08         |
-|  6 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_b_relevance)                      | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_b_relevance) | 11/08         |
-|  7 | [雄獅資訊科技股份有限公司](https://www.104.com.tw/company/13kq7dpk?jobsource=jolist_a_date)                        | [python工程師](https://www.104.com.tw/job/71rxc?jobsource=jolist_a_date)                    | 11/10         |
+|  1 | [Algotech_新加坡商艾高科技股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6blc6n?jobsource=jolist_c_date)      | [產品工程師/Python工程師](https://www.104.com.tw/job/7duf1?jobsource=jolist_c_date)              | 11/10         |
+|  2 | [Algotech_新加坡商艾高科技股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6blc6n?jobsource=jolist_c_relevance) | [產品工程師/Python工程師](https://www.104.com.tw/job/7duf1?jobsource=jolist_c_relevance)         | 11/10         |
+|  3 | [合翔資訊科技有限公司](https://www.104.com.tw/company/1a2x6blmxr?jobsource=jolist_c_date)                        | [Python Backend 工程師](https://www.104.com.tw/job/7fif4?jobsource=jolist_c_date)           | 11/10         |
+|  4 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance)                      | [Python Flask網站開發工程師(台北)](https://www.104.com.tw/job/6xtfl?jobsource=jolist_c_relevance) | 11/08         |
+|  5 | [紅門互動股份有限公司](https://www.104.com.tw/company/oh4m67k?jobsource=jolist_c_relevance)                      | [Python Flask網站研發工程師(台中)](https://www.104.com.tw/job/6kf9h?jobsource=jolist_c_relevance) | 11/08         |
+|  6 | [雄獅資訊科技股份有限公司](https://www.104.com.tw/company/13kq7dpk?jobsource=jolist_c_date)                        | [python工程師](https://www.104.com.tw/job/71rxc?jobsource=jolist_c_date)                    | 11/10         |
 
 ### Platform - 1111
 
