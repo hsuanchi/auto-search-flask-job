@@ -12,6 +12,8 @@
 |---:|:-------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|:--------------|
 |  1 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_c_relevance) | [Python後端工程師](https://www.104.com.tw/job/76vbt?jobsource=jolist_c_relevance)                                             | 12/29         |
 |  2 | [淼森科技股份有限公司](https://www.104.com.tw/company/1a2x6blm7t?jobsource=jolist_c_relevance) | [Web App Backend Developer 後端工程師 AWS/Flask/Postman/MySQL](https://www.104.com.tw/job/7a7i3?jobsource=jolist_c_relevance) | 12/29         |
+|  3 | [迪威智能股份有限公司](https://www.104.com.tw/company/1a2x6bl035?jobsource=jolist_a_date)      | [Senior/Junior AI Engineer AI工程師](https://www.104.com.tw/job/7ecqj?jobsource=jolist_a_date)                              | 1/03          |
+|  4 | [銳熙科技有限公司](https://www.104.com.tw/company/1a2x6blu7t?jobsource=jolist_a_date)        | [前端工程師](https://www.104.com.tw/job/7gsq5?jobsource=jolist_a_date)                                                        | 1/03          |
 
 ### Platform - 1111
 
