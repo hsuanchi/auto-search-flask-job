@@ -8,16 +8,10 @@
 ### Platform - 104
 
 
-|    | company                                                                                          | job_title                                                                                                                | update_time   |
-|---:|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|:--------------|
-|  1 | [光禾感知科技股份有限公司](https://www.104.com.tw/company/1a2x6bks9s?jobsource=jolist_d_date)                | [Python後端工程師](https://www.104.com.tw/job/71j4l?jobsource=jolist_d_date)                                                  | 1/18          |
-|  2 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_a_relevance)             | [Python後端工程師](https://www.104.com.tw/job/76vbt?jobsource=jolist_a_relevance)                                             | 1/12          |
-|  3 | [淼森科技股份有限公司](https://www.104.com.tw/company/1a2x6blm7t?jobsource=jolist_a_relevance)             | [Web App Backend Developer 後端工程師 AWS/Flask/Postman/MySQL](https://www.104.com.tw/job/7a7i3?jobsource=jolist_a_relevance) | 1/15          |
-|  4 | [艾酷互動股份有限公司](https://www.104.com.tw/company/1a2x6bkq17?jobsource=jolist_d_date)                  | [數據⼯程師](https://www.104.com.tw/job/7275w?jobsource=jolist_d_date)                                                        | 1/18          |
-|  5 | [迪威智能股份有限公司](https://www.104.com.tw/company/1a2x6bl035?jobsource=jolist_d_date)                  | [Senior/Junior AI Engineer AI工程師](https://www.104.com.tw/job/7ecqj?jobsource=jolist_d_date)                              | 1/18          |
-|  6 | [金正禾數位有限公司](https://www.104.com.tw/company/1a2x6bl4su?jobsource=jolist_d_date)                   | [資深後端工程師 Senior Backend Engineer](https://www.104.com.tw/job/720ep?jobsource=jolist_d_date)                              | 1/18          |
-|  7 | [雄獅資訊科技股份有限公司](https://www.104.com.tw/company/13kq7dpk?jobsource=jolist_d_date)                  | [python工程師](https://www.104.com.tw/job/71rxc?jobsource=jolist_d_date)                                                    | 1/18          |
-|  8 | [點睛品_英屬維爾京群島商周生生珠寶行股份有限公司台灣分公司](https://www.104.com.tw/company/152ckz00?jobsource=jolist_d_date) | [Python工程師](https://www.104.com.tw/job/7hq8v?jobsource=jolist_d_date)                                                    | 1/18          |
+|    | company                                                                              | job_title                                                                                                                | update_time   |
+|---:|:-------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|:--------------|
+|  1 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_d_relevance) | [Python後端工程師](https://www.104.com.tw/job/76vbt?jobsource=jolist_d_relevance)                                             | 1/12          |
+|  2 | [淼森科技股份有限公司](https://www.104.com.tw/company/1a2x6blm7t?jobsource=jolist_d_relevance) | [Web App Backend Developer 後端工程師 AWS/Flask/Postman/MySQL](https://www.104.com.tw/job/7a7i3?jobsource=jolist_d_relevance) | 1/15          |
 
 ### Platform - 1111
 
