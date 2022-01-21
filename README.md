@@ -8,15 +8,17 @@
 ### Platform - 104
 
 
-|    | company                                                                                | job_title                                                                                                                | update_time   |
-|---:|:---------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|:--------------|
-|  1 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_a_relevance)   | [Python後端工程師](https://www.104.com.tw/job/76vbt?jobsource=jolist_a_relevance)                                             | 1/19          |
-|  2 | [歐立威科技股份有限公司](https://www.104.com.tw/company/b8gl75c?jobsource=jolist_d_date)          | [軟體開發工程師](https://www.104.com.tw/job/6q2ao?jobsource=jolist_d_date)                                                      | 1/20          |
-|  3 | [淼森科技股份有限公司](https://www.104.com.tw/company/1a2x6blm7t?jobsource=jolist_a_relevance)   | [Web App Backend Developer 後端工程師 AWS/Flask/Postman/MySQL](https://www.104.com.tw/job/7a7i3?jobsource=jolist_a_relevance) | 1/15          |
-|  4 | [米約科技有限公司](https://www.104.com.tw/company/1a2x6bl97m?jobsource=jolist_d_date)          | [Python工程師](https://www.104.com.tw/job/6zey2?jobsource=jolist_d_date)                                                    | 1/20          |
-|  5 | [美商美創資通股份有限公司台灣分公司](https://www.104.com.tw/company/1a2x6bjdsb?jobsource=jolist_d_date) | [資深Web後端工程師](https://www.104.com.tw/job/6y6f0?jobsource=jolist_d_date)                                                   | 1/20          |
-|  6 | [長川資訊股份有限公司](https://www.104.com.tw/company/1a2x6bi3xl?jobsource=jolist_d_date)        | [Python全端工程師](https://www.104.com.tw/job/7h9wo?jobsource=jolist_d_date)                                                  | 1/20          |
-|  7 | [雲端互動股份有限公司](https://www.104.com.tw/company/bjd57go?jobsource=jolist_d_date)           | [Python Back-End Developer 後端工程師](https://www.104.com.tw/job/73trn?jobsource=jolist_d_date)                              | 1/20          |
+|    | company                                                                                     | job_title                                                                                                                | update_time   |
+|---:|:--------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|:--------------|
+|  1 | [Deep Sentinel_亞齊國際有限公司](https://www.104.com.tw/company/1a2x6blbly?jobsource=jolist_a_date) | [Full Stack Engineer 全端工程師](https://www.104.com.tw/job/7e67z?jobsource=jolist_a_date)                                    | 1/21          |
+|  2 | [太奇雲端股份有限公司](https://www.104.com.tw/company/1a2x6bjj3y?jobsource=jolist_a_date)             | [前端工程師 (Front-end Developer)](https://www.104.com.tw/job/7fyy6?jobsource=jolist_a_date)                                  | 1/21          |
+|  3 | [好好證券股份有限公司](https://www.104.com.tw/company/1a2x6bjpjb?jobsource=jolist_a_date)             | [Backend Engineer(熟 Python、RESTful API )](https://www.104.com.tw/job/5572i?jobsource=jolist_a_date)                      | 1/21          |
+|  4 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_a_relevance)        | [Python後端工程師](https://www.104.com.tw/job/76vbt?jobsource=jolist_a_relevance)                                             | 1/19          |
+|  5 | [智勝科技股份有限公司](https://www.104.com.tw/company/10ukqxdc?jobsource=jolist_a_date)               | [211111 資訊工程師](https://www.104.com.tw/job/7gnhc?jobsource=jolist_a_date)                                                 | 1/21          |
+|  6 | [淼森科技股份有限公司](https://www.104.com.tw/company/1a2x6blm7t?jobsource=jolist_a_relevance)        | [Web App Backend Developer 後端工程師 AWS/Flask/Postman/MySQL](https://www.104.com.tw/job/7a7i3?jobsource=jolist_a_relevance) | 1/15          |
+|  7 | [紐奧谷科技股份有限公司](https://www.104.com.tw/company/1a2x6blk60?jobsource=jolist_a_date)            | [Developer 開發工程師 (Python)](https://www.104.com.tw/job/78o4v?jobsource=jolist_a_date)                                     | 1/21          |
+|  8 | [雲端互動股份有限公司](https://www.104.com.tw/company/bjd57go?jobsource=jolist_a_relevance)           | [Python Back-End Developer 後端工程師_Flask](https://www.104.com.tw/job/73trn?jobsource=jolist_a_relevance)                   | 1/20          |
+|  9 | [霖園關係企業_神坊資訊股份有限公司](https://www.104.com.tw/company/wdapdfc?jobsource=jolist_a_date)         | [後端開發工程師 (Backend Engineer) - 小樹生活圈](https://www.104.com.tw/job/7f5jf?jobsource=jolist_a_date)                           | 1/21          |
 
 ### Platform - 1111
 
@@ -25,7 +27,7 @@
 |---:|:---------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|:--------------|
 |  1 | [(獵頭)Accurate愛客獵股份有限公司(1111 高階獵才)](https://www.1111.com.tw/corp/69647966/)       | [直播平台_Senior Backend Developer(3002871)](https://www.1111.com.tw/job/85960420/)                          | 2020-05-15    |
 |  2 | [台灣美光晶圓科技股份有限公司](https://www.1111.com.tw/corp/9622349/)                          | [Full Stack SMAI Solution Developer](https://www.1111.com.tw/job/98479119/)                              | 2022-01-19    |
-|  3 | [沛思坦網路股份有限公司](https://www.1111.com.tw/corp/73457881/)                            | [【台北內湖】資深Python後端工程師 Python Back-end Engineer (Senior) (月薪7萬-9萬)](https://www.1111.com.tw/job/97541124/) | 2022-01-17    |
+|  3 | [沛思坦網路股份有限公司](https://www.1111.com.tw/corp/73457881/)                            | [【台北內湖】資深Python後端工程師 Python Back-end Engineer (Senior) (月薪7萬-9萬)](https://www.1111.com.tw/job/97541124/) | 2022-01-21    |
 |  4 | [美超微電腦股份有限公司(Super Micro Computer, Inc.)](https://www.1111.com.tw/corp/9530088/) | [Software Engineer-TC21167](https://www.1111.com.tw/job/98544764/)                                       | 2022-01-19    |
 
 
