@@ -10,8 +10,11 @@
 
 |    | company                                                                              | job_title                                                                                                                | update_time   |
 |---:|:-------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|:--------------|
-|  1 | [淼森科技股份有限公司](https://www.104.com.tw/company/1a2x6blm7t?jobsource=jolist_a_relevance) | [Web App Backend Developer 後端工程師 AWS/Flask/Postman/MySQL](https://www.104.com.tw/job/7a7i3?jobsource=jolist_a_relevance) | 1/22          |
-|  2 | [雲端互動股份有限公司](https://www.104.com.tw/company/bjd57go?jobsource=jolist_a_relevance)    | [Python Back-End Developer 後端工程師_Flask](https://www.104.com.tw/job/73trn?jobsource=jolist_a_relevance)                   | 1/20          |
+|  1 | [易勝資訊股份有限公司](https://www.104.com.tw/company/1a2x6bj8og?jobsource=jolist_a_date)      | [Python後端工程師(IoT物聯網應用)](https://www.104.com.tw/job/76vbt?jobsource=jolist_a_date)                                        | 1/26          |
+|  2 | [淼森科技股份有限公司](https://www.104.com.tw/company/1a2x6blm7t?jobsource=jolist_c_relevance) | [Web App Backend Developer 後端工程師 AWS/Flask/Postman/MySQL](https://www.104.com.tw/job/7a7i3?jobsource=jolist_c_relevance) | 1/22          |
+|  3 | [聚典資訊股份有限公司](https://www.104.com.tw/company/1a2x6bl0ew?jobsource=jolist_a_date)      | [後端工程師 Backend Engineer](https://www.104.com.tw/job/7hckm?jobsource=jolist_a_date)                                       | 1/26          |
+|  4 | [聚典資訊股份有限公司](https://www.104.com.tw/company/1a2x6bl0ew?jobsource=jolist_a_date)      | [後端工程師-學生實習 Backend Engineer(Intern)](https://www.104.com.tw/job/7hd32?jobsource=jolist_a_date)                          | 1/26          |
+|  5 | [雲端互動股份有限公司](https://www.104.com.tw/company/bjd57go?jobsource=jolist_c_relevance)    | [Python Back-End Developer 後端工程師_Flask](https://www.104.com.tw/job/73trn?jobsource=jolist_c_relevance)                   | 1/20          |
 
 ### Platform - 1111
 
