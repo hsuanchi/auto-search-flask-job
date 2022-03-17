@@ -21,18 +21,18 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run crawler
-        run: |
-          python main.py
+#       - name: Run crawler
+#         run: |
+#           python main.py
 
-      - name: Update job list
-        run: |
-          # Hard-code user configuration
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # Checkout the branch so we can push back to it
-          git checkout main
-          git add -A
-          # Only commit and push if we have changes
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update job list at $(date +'%Y-%m-%d %H:%M')")
-          git push
+#       - name: Update job list
+#         run: |
+#           # Hard-code user configuration
+#           git config --global user.name "github-actions[bot]"
+#           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+#           # Checkout the branch so we can push back to it
+#           git checkout main
+#           git add -A
+#           # Only commit and push if we have changes
+#           git diff --quiet && git diff --staged --quiet || (git commit -m "Update job list at $(date +'%Y-%m-%d %H:%M')")
+#           git push
